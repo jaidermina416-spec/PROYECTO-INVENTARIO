@@ -1,0 +1,1001 @@
+Codigo,Nombre,Tipo,Cantidad,Precio,Minimo,ValorTotal,Año,Mes,Dia
+P-0001,Escritorio Gaming Ergonómix Pro,Mobiliario,2,2098000,6,4196000,2020,Enero,29
+P-0002,Mochila Laptop Belkin V2,Accesorio,12,164000,11,1968000,2003,Septiembre,2
+P-0003,Proyector Asus Basic,Electrónico,0,5939000,11,0,2000,Abril,15
+P-0004,Lápiz Digitalizador A4Tech Mini,Periférico,9,146000,9,1314000,2023,Febrero,30
+P-0005,Funda Tablet AmazonBasics Elite,Accesorio,2,153000,7,306000,2008,Abril,26
+P-0006,Funda Tablet Ugreen Plus,Accesorio,0,68000,8,0,2007,Diciembre,19
+P-0007,Licencia Office 365 Autodesk X,Software,0,350000,14,0,2007,Julio,21
+P-0008,Switch 24 puertos Cisco Slim,Red,13,1425000,3,18525000,2004,Agosto,7
+P-0009,Silla Ergonómica ComfortPro X,Mobiliario,0,843000,13,0,2023,Septiembre,11
+P-0010,Base Laptop Anker HD,Accesorio,4,129000,3,516000,2003,Abril,20
+P-0011,Tarjeta SD Crucial Lite,Almacenamiento,10,123000,4,1230000,2021,Diciembre,16
+P-0012,Base Laptop Ugreen V3,Accesorio,5,220000,3,1100000,2023,Agosto,17
+P-0013,Firewall Hanwha Basic,Seguridad,44,3138000,9,138072000,2017,Noviembre,5
+P-0014,Impresora Láser Xerox Max,Impresión,15,929000,5,13935000,2002,Diciembre,31
+P-0015,NAS Server Crucial Plus,Almacenamiento,31,2064000,11,63984000,2018,Agosto,2
+P-0016,Scanner Microsoft Mini,Periférico,0,1008000,9,0,2013,Agosto,15
+P-0017,Teclado HyperX V3,Periférico,7,367000,10,2569000,2001,Enero,4
+P-0018,Licencia Adobe CC ESET Mini,Software,9,1200000,5,10800000,2000,Febrero,26
+P-0019,Patch Panel Zyxel Plus,Red,0,144000,15,0,2002,Mayo,29
+P-0020,Escritorio Gaming FlexiDesk HD,Mobiliario,32,1973000,8,63136000,2006,Abril,27
+P-0021,Tarjeta SD Transcend Lite,Almacenamiento,6,165000,6,990000,2007,Julio,11
+P-0022,Hub USB-C Cable Matters Plus,Accesorio,11,369000,14,4059000,2016,Diciembre,23
+P-0023,Disco HDD WD Ultra,Almacenamiento,12,372000,4,4464000,2019,Abril,3
+P-0024,Patch Panel Netgear SE,Red,68,174000,15,11832000,2000,Mayo,17
+P-0025,Escritorio Gaming ErgoChair X,Mobiliario,9,987000,4,8883000,2017,Noviembre,21
+P-0026,Firewall Axis Slim,Seguridad,1,1804000,11,1804000,2006,Octubre,6
+P-0027,Mouse Trust Slim,Periférico,1,257000,14,257000,2022,Junio,2
+P-0028,Impresora Inkjet Lexmark Plus,Impresión,17,407000,13,6919000,2020,Agosto,8
+P-0029,Funda Tablet Vention HD,Accesorio,9,77000,4,693000,2022,Septiembre,23
+P-0030,Impresora 3D Lexmark 4K,Impresión,20,6469000,8,129380000,2017,Septiembre,15
+P-0031,Cable DisplayPort Ugreen Mini,Accesorio,37,69000,9,2553000,2013,Junio,15
+P-0032,Mouse HyperX Basic,Periférico,0,61000,7,0,2007,Julio,17
+P-0033,UPS 1200VA CyberPower X,Energía,0,705000,2,0,2014,Diciembre,17
+P-0034,Escritorio Gaming Ergonómix Basic,Mobiliario,3,718000,2,2154000,2018,Septiembre,20
+P-0035,Patch Panel D-Link Ultra,Red,3,462000,9,1386000,2008,Junio,6
+P-0036,Adaptador USB-C HDMI Vention X,Accesorio,18,95000,5,1710000,2025,Junio,12
+P-0037,Lápiz Digitalizador Razer Plus,Periférico,34,258000,8,8772000,2000,Diciembre,12
+P-0038,Switch 24 puertos TP-Link V2,Red,0,1988000,12,0,2024,Agosto,30
+P-0039,NAS Server SanDisk HD,Almacenamiento,4,1647000,5,6588000,2025,Mayo,10
+P-0040,Teclado Genius Elite,Periférico,2,222000,9,444000,2005,Mayo,13
+P-0041,Switch 8 puertos Cisco Pro,Red,0,773000,15,0,2022,Mayo,14
+P-0042,Proyector Asus Elite,Electrónico,34,5129000,9,174386000,2013,Abril,25
+P-0043,Licencia Adobe CC Microsoft Elite,Software,6,1200000,2,7200000,2010,Febrero,11
+P-0044,Mini PC Apple Ultra,Electrónico,63,1716000,13,108108000,2008,Diciembre,22
+P-0045,UPS 1200VA Sola V3,Energía,1,978000,4,978000,2004,Abril,20
+P-0046,Smartphone Toshiba V3,Electrónico,2,3120000,2,6240000,2006,Junio,2
+P-0047,Smartphone Toshiba Lite,Electrónico,18,2959000,15,53262000,2024,Febrero,26
+P-0048,Patch Panel Cisco 4K,Red,13,215000,3,2795000,2010,Diciembre,21
+P-0049,Licencia Antivirus Adobe Mini,Software,10,181000,11,1810000,2003,Septiembre,21
+P-0050,Tablet Toshiba Plus,Electrónico,45,1658000,12,74610000,2002,Diciembre,11
+P-0051,Disco SSD Crucial Basic,Almacenamiento,2,521000,5,1042000,2012,Marzo,3
+P-0052,Base Laptop Cable Matters Ultra,Accesorio,9,172000,7,1548000,2003,Abril,11
+P-0053,Laptop Apple X,Electrónico,0,3806000,3,0,2011,Abril,4
+P-0054,Scanner A4Tech Ultra,Periférico,35,485000,7,16975000,2011,Diciembre,18
+P-0055,Impresora Inkjet Canon Ultra,Impresión,28,481000,9,13468000,2019,Agosto,22
+P-0056,Silla Ergonómica DeskMate SE,Mobiliario,31,466000,12,14446000,2008,Mayo,13
+P-0057,Mini PC Dell Slim,Electrónico,0,1125000,6,0,2025,Diciembre,10
+P-0058,Cámara Web A4Tech Elite,Periférico,28,259000,6,7252000,2001,Octubre,9
+P-0059,Disco HDD Kingston V2,Almacenamiento,8,474000,15,3792000,2023,Septiembre,24
+P-0060,Impresora 3D Kyocera Pro,Impresión,29,2256000,12,65424000,2014,Octubre,28
+P-0061,Tablet HP Max,Electrónico,22,1067000,12,23474000,2017,Mayo,22
+P-0062,Mochila Laptop Orico SE,Accesorio,0,338000,10,0,2003,Febrero,31
+P-0063,Smart TV Lenovo SE,Electrónico,50,1347000,15,67350000,2012,Abril,30
+P-0064,Auriculares LG Elite,Electrónico,7,235000,6,1645000,2002,Mayo,20
+P-0065,Licencia Adobe CC Autodesk Basic,Software,0,1200000,12,0,2017,Abril,28
+P-0066,Limpiador Pantalla Vention Slim,Accesorio,26,38000,11,988000,2009,Junio,5
+P-0067,Licencia Antivirus Adobe HD,Software,0,210000,8,0,2026,Marzo,11
+P-0068,Mochila Laptop Ugreen HD,Accesorio,61,330000,14,20130000,2020,Mayo,3
+P-0069,DVR 8 Canales Dahua Ultra,Seguridad,38,906000,14,34428000,2019,Enero,19
+P-0070,Licencia Antivirus Microsoft 4K,Software,4,360000,5,1440000,2011,Diciembre,22
+P-0071,Memoria RAM Crucial 4K,Almacenamiento,0,413000,5,0,2018,Septiembre,5
+P-0072,Lápiz Digitalizador Genius Max,Periférico,0,161000,15,0,2006,Marzo,30
+P-0073,Limpiador Pantalla Ugreen Max,Accesorio,29,44000,8,1276000,2022,Mayo,12
+P-0074,Monitor Dell Slim,Electrónico,12,1134000,4,13608000,2002,Enero,10
+P-0075,Tablet Dell X,Electrónico,17,1689000,7,28713000,2001,Enero,31
+P-0076,Router WiFi Cisco Mini,Red,4,770000,5,3080000,2021,Septiembre,21
+P-0077,Laptop MSI Slim,Electrónico,59,3705000,12,218595000,2007,Mayo,23
+P-0078,Mochila Laptop Cable Matters Basic,Accesorio,0,306000,8,0,2024,Diciembre,22
+P-0079,Base Laptop Ugreen X,Accesorio,58,135000,12,7830000,2009,Marzo,13
+P-0080,Licencia Adobe CC Autodesk SE,Software,37,1200000,12,44400000,2002,Noviembre,5
+P-0081,Cable HDMI Ugreen SE,Accesorio,17,34000,5,578000,2007,Agosto,20
+P-0082,Hub USB-C Cable Matters Slim,Accesorio,36,184000,11,6624000,2003,Febrero,23
+P-0083,UPS 1200VA APC Ultra,Energía,23,773000,5,17779000,2012,Enero,31
+P-0084,Regleta Eléctrica Cable Matters Max,Accesorio,22,94000,9,2068000,2008,Octubre,3
+P-0085,Patch Panel Zyxel HD,Red,0,206000,12,0,2014,Mayo,10
+P-0086,Patch Panel Mikrotik Plus,Red,4,240000,12,960000,2020,Agosto,18
+P-0087,Auriculares HP Pro,Electrónico,13,651000,9,8463000,2026,Agosto,13
+P-0088,Switch 24 puertos Tenda Slim,Red,7,1939000,11,13573000,2011,Agosto,21
+P-0089,Cable UTP Cat6 Tenda Basic,Red,60,12000,12,720000,2005,Junio,26
+P-0090,Licencia Antivirus Bitdefender Slim,Software,25,174000,14,4350000,2011,Marzo,11
+P-0091,DVR 8 Canales Hanwha SE,Seguridad,3,1531000,2,4593000,2011,Enero,27
+P-0092,Switch 24 puertos Netgear HD,Red,47,1601000,12,75247000,2006,Mayo,5
+P-0093,Regleta Eléctrica Ugreen HD,Accesorio,43,91000,11,3913000,2021,Agosto,22
+P-0094,Router WiFi Zyxel Slim,Red,41,342000,13,14022000,2008,Febrero,23
+P-0095,Impresora 3D Kyocera Basic,Impresión,22,6723000,6,147906000,2022,Febrero,27
+P-0096,Cable UTP Cat6 D-Link Ultra,Red,6,22000,3,132000,2021,Julio,31
+P-0097,Tóner HP Canon Max,Impresión,0,313000,10,0,2020,Agosto,24
+P-0098,Auriculares Asus Mini,Electrónico,7,462000,13,3234000,2002,Febrero,22
+P-0099,SSD NVMe SanDisk SE,Almacenamiento,0,757000,8,0,2019,Octubre,30
+P-0100,Sensor Movimiento Honeywell Mini,Seguridad,0,234000,13,0,2020,Noviembre,17
+P-0101,Licencia AutoCAD Bitdefender X,Software,0,2800000,9,0,2005,Noviembre,3
+P-0102,Memoria RAM Crucial HD,Almacenamiento,68,579000,15,39372000,2017,Enero,21
+P-0103,SSD NVMe PNY V3,Almacenamiento,28,839000,14,23492000,2023,Marzo,22
+P-0104,Cable UTP Cat6 D-Link Ultra,Red,0,21000,9,0,2007,Marzo,14
+P-0105,Disco HDD Toshiba V3,Almacenamiento,23,234000,15,5382000,2005,Octubre,17
+P-0106,Silla Ergonómica ErgoChair Pro,Mobiliario,12,1256000,11,15072000,2014,Mayo,12
+P-0107,Proyector LG Elite,Electrónico,0,5582000,4,0,2012,Febrero,1
+P-0108,Tarjeta SD SanDisk Basic,Almacenamiento,4,146000,7,584000,2008,Abril,12
+P-0109,Tóner HP Kyocera 4K,Impresión,21,192000,6,4032000,2020,Febrero,10
+P-0110,Monitor MSI Pro,Electrónico,25,1316000,5,32900000,2022,Septiembre,6
+P-0111,Tablet HP Basic,Electrónico,0,1208000,15,0,2017,Julio,31
+P-0112,Auriculares Asus Elite,Electrónico,0,1119000,12,0,2007,Octubre,7
+P-0113,Scanner Microsoft V3,Periférico,52,612000,14,31824000,2021,Octubre,11
+P-0114,Regleta Eléctrica Cable Matters V3,Accesorio,33,49000,14,1617000,2010,Octubre,31
+P-0115,Cámara Web Havit Pro,Periférico,35,279000,11,9765000,2026,Abril,25
+P-0116,NAS Server Kingston Plus,Almacenamiento,28,3625000,13,101500000,2024,Septiembre,16
+P-0117,Cámara Web SteelSeries 4K,Periférico,64,181000,14,11584000,2024,Julio,7
+P-0118,Tablet Samsung SE,Electrónico,44,1677000,12,73788000,2001,Agosto,8
+P-0119,Soporte Monitor Ugreen Pro,Accesorio,42,182000,15,7644000,2007,Agosto,5
+P-0120,Memoria USB Lexar V3,Almacenamiento,5,44000,8,220000,2026,Mayo,5
+P-0121,Soporte Monitor Ugreen X,Accesorio,41,212000,14,8692000,2001,Octubre,3
+P-0122,Control de Acceso Hanwha X,Seguridad,33,929000,7,30657000,2025,Julio,10
+P-0123,Mini PC Dell Ultra,Electrónico,8,2655000,9,21240000,2010,Mayo,28
+P-0124,UPS 2000VA Eaton V2,Energía,0,1556000,7,0,2012,Octubre,26
+P-0125,Licencia Office 365 Autodesk Elite,Software,13,350000,5,4550000,2008,Octubre,4
+P-0126,Disco HDD Crucial Slim,Almacenamiento,48,455000,13,21840000,2002,Enero,17
+P-0127,Laptop MSI Basic,Electrónico,20,1850000,5,37000000,2006,Octubre,25
+P-0128,UPS 1200VA CyberPower V3,Energía,40,967000,12,38680000,2018,Diciembre,18
+P-0129,Cámara IP Hikvision Plus,Seguridad,12,581000,5,6972000,2022,Febrero,27
+P-0130,Papel Fotográfico A4 Cable Matters X,Accesorio,31,41000,9,1271000,2010,Abril,24
+P-0131,Router WiFi Mikrotik Max,Red,5,899000,9,4495000,2006,Noviembre,29
+P-0132,Impresora Láser HP V3,Impresión,0,1488000,7,0,2020,Abril,17
+P-0133,Firewall Hanwha Elite,Seguridad,13,3369000,5,43797000,2015,Mayo,2
+P-0134,Adaptador USB-C HDMI Vention HD,Accesorio,2,102000,11,204000,2012,Noviembre,22
+P-0135,Sensor Movimiento Dahua Ultra,Seguridad,1,143000,7,143000,2020,Febrero,11
+P-0136,Cable DisplayPort Vention Elite,Accesorio,10,57000,2,570000,2014,Marzo,29
+P-0137,Cartucho Epson Xerox Elite,Impresión,12,170000,3,2040000,2004,Abril,25
+P-0138,Cartucho Epson Brother Lite,Impresión,1,157000,7,157000,2008,Marzo,20
+P-0139,Impresora 3D Kyocera Lite,Impresión,0,2434000,15,0,2004,Septiembre,5
+P-0140,Cable UTP Cat6 Cisco X,Red,0,28000,12,0,2007,Febrero,20
+P-0141,Auriculares Toshiba Ultra,Electrónico,0,324000,5,0,2023,Marzo,13
+P-0142,Funda Tablet Orico X,Accesorio,42,102000,14,4284000,2017,Enero,5
+P-0143,Servidor Rack 1U Apple Ultra,Electrónico,5,15142000,8,75710000,2017,Julio,6
+P-0144,Smartphone Toshiba V3,Electrónico,4,1306000,14,5224000,2008,Agosto,6
+P-0145,Impresora 3D Xerox Plus,Impresión,1,2786000,5,2786000,2023,Diciembre,27
+P-0146,Micrófono USB Logitech Mini,Periférico,31,410000,13,12710000,2018,Octubre,23
+P-0147,Tablet Asus Ultra,Electrónico,17,1379000,13,23443000,2013,Agosto,25
+P-0148,Hub USB-C Anker Slim,Accesorio,51,230000,14,11730000,2018,Mayo,20
+P-0149,Base Laptop AmazonBasics Slim,Accesorio,0,105000,8,0,2012,Enero,26
+P-0150,Impresora Láser Xerox Elite,Impresión,0,1788000,15,0,2011,Abril,29
+P-0151,Smartphone Lenovo HD,Electrónico,47,2159000,11,101473000,2007,Mayo,6
+P-0152,Servidor Rack 1U Acer Lite,Electrónico,34,7537000,9,256258000,2004,Diciembre,24
+P-0153,Tóner HP Lexmark SE,Impresión,0,211000,9,0,2016,Mayo,15
+P-0154,Tablet LG V3,Electrónico,2,1460000,11,2920000,2015,Diciembre,2
+P-0155,Impresora Láser Xerox 4K,Impresión,31,784000,14,24304000,2002,Agosto,14
+P-0156,UPS 2000VA APC HD,Energía,37,1138000,9,42106000,2024,Febrero,12
+P-0157,Servidor Rack 1U Acer Elite,Electrónico,39,15090000,8,588510000,2001,Noviembre,22
+P-0158,Proyector Apple Max,Electrónico,1,5145000,7,5145000,2003,Abril,24
+P-0159,Licencia Office 365 Adobe Max,Software,55,350000,13,19250000,2004,Mayo,8
+P-0160,NAS Server PNY Pro,Almacenamiento,2,3062000,3,6124000,2020,Noviembre,15
+P-0161,Mouse Genius 4K,Periférico,57,176000,15,10032000,2005,Octubre,20
+P-0162,Licencia Antivirus ESET Lite,Software,1,331000,2,331000,2025,Noviembre,10
+P-0163,Silla Ergonómica OfficePlus V2,Mobiliario,0,1355000,14,0,2021,Abril,25
+P-0164,Tóner HP Lexmark Elite,Impresión,40,158000,9,6320000,2013,Julio,24
+P-0165,Mouse Logitech V2,Periférico,3,200000,14,600000,2019,Febrero,26
+P-0166,Papel Fotográfico A4 Vention Pro,Accesorio,0,53000,8,0,2002,Septiembre,15
+P-0167,Sensor Movimiento Hikvision Lite,Seguridad,43,115000,12,4945000,2012,Abril,8
+P-0168,Mini PC Acer SE,Electrónico,21,2294000,6,48174000,2012,Noviembre,18
+P-0169,Access Point D-Link Lite,Red,20,844000,4,16880000,2019,Marzo,8
+P-0170,Mochila Laptop Anker 4K,Accesorio,19,155000,6,2945000,2014,Mayo,10
+P-0171,Disco HDD PNY Ultra,Almacenamiento,24,151000,6,3624000,2016,Marzo,31
+P-0172,Regulador Voltaje Sola Lite,Energía,31,161000,9,4991000,2008,Febrero,26
+P-0173,Disco HDD PNY HD,Almacenamiento,28,428000,8,11984000,2017,Enero,26
+P-0174,Licencia Antivirus Adobe V3,Software,37,242000,11,8954000,2000,Marzo,16
+P-0175,Tablet Samsung V3,Electrónico,37,1768000,13,65416000,2021,Mayo,29
+P-0176,Tarjeta SD Seagate Lite,Almacenamiento,14,39000,4,546000,2023,Octubre,27
+P-0177,Licencia Antivirus Microsoft 4K,Software,10,345000,3,3450000,2003,Diciembre,7
+P-0178,Laptop Lenovo Mini,Electrónico,0,4181000,4,0,2021,Octubre,12
+P-0179,Cámara IP Bosch Max,Seguridad,18,918000,13,16524000,2017,Mayo,22
+P-0180,Licencia Office 365 Autodesk 4K,Software,35,350000,7,12250000,2024,Agosto,31
+P-0181,Funda Tablet Orico 4K,Accesorio,0,54000,11,0,2008,Febrero,19
+P-0182,Escritorio Gaming DeskMate Slim,Mobiliario,18,1168000,5,21024000,2024,Agosto,15
+P-0183,Cámara Web Razer Lite,Periférico,1,205000,13,205000,2020,Diciembre,15
+P-0184,Tablet Samsung HD,Electrónico,19,914000,6,17366000,2010,Mayo,25
+P-0185,Auriculares Asus SE,Electrónico,22,993000,11,21846000,2003,Diciembre,10
+P-0186,Micrófono USB Corsair Plus,Periférico,58,492000,15,28536000,2009,Julio,25
+P-0187,Impresora Inkjet Brother Slim,Impresión,3,917000,4,2751000,2013,Mayo,13
+P-0188,Impresora 3D Brother Ultra,Impresión,9,6962000,2,62658000,2005,Septiembre,17
+P-0189,Licencia Adobe CC Autodesk V2,Software,8,1200000,3,9600000,2014,Septiembre,17
+P-0190,Regulador Voltaje Forza V2,Energía,5,302000,13,1510000,2000,Agosto,14
+P-0191,Lápiz Digitalizador Genius 4K,Periférico,2,213000,3,426000,2023,Agosto,31
+P-0192,UPS 2000VA Forza V3,Energía,8,1384000,2,11072000,2023,Febrero,6
+P-0193,Tóner HP HP X,Impresión,15,306000,12,4590000,2008,Octubre,27
+P-0194,Servidor Rack 1U Toshiba V3,Electrónico,33,13638000,15,450054000,2016,Enero,7
+P-0195,Limpiador Pantalla AmazonBasics Basic,Accesorio,24,34000,5,816000,2024,Julio,26
+P-0196,Impresora 3D Xerox HD,Impresión,67,7405000,14,496135000,2005,Diciembre,20
+P-0197,Teclado Razer Slim,Periférico,0,401000,12,0,2016,Junio,5
+P-0198,Cámara IP Honeywell Pro,Seguridad,9,873000,7,7857000,2003,Octubre,28
+P-0199,Servidor Rack 1U Acer Max,Electrónico,2,17746000,8,35492000,2020,Mayo,9
+P-0200,Cámara IP Axis Slim,Seguridad,27,654000,10,17658000,2009,Enero,2
+P-0201,Sensor Movimiento Dahua Ultra,Seguridad,6,208000,14,1248000,2026,Febrero,21
+P-0202,DVR 8 Canales Hikvision Lite,Seguridad,11,734000,4,8074000,2020,Abril,16
+P-0203,Licencia Antivirus Norton V3,Software,31,465000,8,14415000,2016,Noviembre,28
+P-0204,Proyector LG Pro,Electrónico,0,3966000,10,0,2019,Octubre,12
+P-0205,Memoria USB Crucial X,Almacenamiento,38,73000,15,2774000,2006,Octubre,18
+P-0206,Cámara Web HyperX Lite,Periférico,46,132000,11,6072000,2004,Enero,30
+P-0207,Disco SSD Transcend Basic,Almacenamiento,56,264000,12,14784000,2011,Noviembre,4
+P-0208,Papel Fotográfico A4 Cable Matters Mini,Accesorio,0,25000,4,0,2024,Mayo,23
+P-0209,Tablet Acer Lite,Electrónico,1,1037000,3,1037000,2005,Octubre,28
+P-0210,Tarjeta SD Lexar Max,Almacenamiento,17,168000,8,2856000,2017,Enero,17
+P-0211,Licencia AutoCAD Kaspersky V2,Software,41,2800000,15,114800000,2024,Marzo,28
+P-0212,Tóner HP HP V3,Impresión,12,179000,5,2148000,2016,Agosto,4
+P-0213,Licencia Office 365 Autodesk Plus,Software,32,350000,10,11200000,2000,Septiembre,10
+P-0214,Smartphone LG Ultra,Electrónico,10,1677000,3,16770000,2019,Noviembre,3
+P-0215,Proyector Asus V2,Electrónico,5,1974000,2,9870000,2010,Agosto,25
+P-0216,Teclado Havit Basic,Periférico,28,115000,15,3220000,2015,Mayo,6
+P-0217,Regulador Voltaje CyberPower 4K,Energía,32,204000,7,6528000,2000,Marzo,9
+P-0218,Licencia Adobe CC ESET Pro,Software,23,1200000,15,27600000,2003,Octubre,15
+P-0219,Firewall Bosch HD,Seguridad,3,3229000,3,9687000,2011,Julio,29
+P-0220,Teclado Logitech Max,Periférico,3,201000,11,603000,2026,Noviembre,17
+P-0221,Impresora 3D HP Elite,Impresión,12,7576000,8,90912000,2025,Agosto,5
+P-0222,Access Point Zyxel HD,Red,38,650000,10,24700000,2009,Febrero,27
+P-0223,Patch Panel D-Link X,Red,55,142000,13,7810000,2007,Agosto,14
+P-0224,Rack 12U Ubiquiti Lite,Red,8,713000,2,5704000,2001,Junio,3
+P-0225,Router WiFi Cisco Lite,Red,0,909000,9,0,2007,Julio,31
+P-0226,Proyector Samsung X,Electrónico,0,3015000,3,0,2018,Junio,30
+P-0227,Silla Ergonómica DeskMate X,Mobiliario,10,1573000,13,15730000,2002,Junio,8
+P-0228,Rack 12U Ubiquiti Lite,Red,55,1685000,11,92675000,2002,Noviembre,27
+P-0229,Mouse A4Tech V3,Periférico,12,266000,5,3192000,2023,Febrero,15
+P-0230,SSD NVMe SanDisk 4K,Almacenamiento,14,744000,8,10416000,2015,Marzo,29
+P-0231,Disco SSD Toshiba Max,Almacenamiento,28,461000,7,12908000,2026,Junio,12
+P-0232,Mini PC Apple Plus,Electrónico,0,1036000,15,0,2002,Julio,30
+P-0233,Router WiFi Cisco V3,Red,24,936000,7,22464000,2024,Diciembre,1
+P-0234,Smartphone Toshiba SE,Electrónico,20,3200000,7,64000000,2017,Agosto,14
+P-0235,Memoria RAM Toshiba 4K,Almacenamiento,17,232000,6,3944000,2024,Mayo,2
+P-0236,Cámara Web Havit SE,Periférico,11,228000,4,2508000,2004,Noviembre,13
+P-0237,Licencia Office 365 Microsoft Max,Software,12,350000,3,4200000,2004,Julio,17
+P-0238,Impresora Láser Kyocera Mini,Impresión,55,807000,11,44385000,2021,Septiembre,12
+P-0239,Tóner HP HP Elite,Impresión,34,154000,13,5236000,2015,Enero,8
+P-0240,Memoria RAM Samsung Elite,Almacenamiento,15,326000,11,4890000,2017,Agosto,13
+P-0241,Auriculares HP Plus,Electrónico,29,590000,8,17110000,2005,Febrero,3
+P-0242,Micrófono USB Trust Ultra,Periférico,25,549000,7,13725000,2008,Junio,12
+P-0243,Regleta Eléctrica Belkin Slim,Accesorio,3,41000,4,123000,2016,Mayo,8
+P-0244,Smartphone Dell Ultra,Electrónico,50,2714000,12,135700000,2019,Junio,1
+P-0245,Switch 8 puertos Tenda Ultra,Red,36,440000,14,15840000,2013,Febrero,11
+P-0246,Router WiFi Cisco Ultra,Red,45,874000,12,39330000,2006,Julio,30
+P-0247,Base Laptop Ugreen Pro,Accesorio,11,111000,8,1221000,2017,Septiembre,4
+P-0248,Laptop Asus Ultra,Electrónico,0,2365000,14,0,2024,Enero,27
+P-0249,Impresora 3D Canon Max,Impresión,8,2482000,2,19856000,2023,Noviembre,23
+P-0250,Gamepad Corsair Mini,Periférico,32,237000,10,7584000,2022,Septiembre,21
+P-0251,Smart TV LG 4K,Electrónico,9,4239000,2,38151000,2006,Agosto,11
+P-0252,Servidor Rack 1U Dell 4K,Electrónico,36,10629000,11,382644000,2022,Julio,26
+P-0253,Cable DisplayPort Cable Matters Mini,Accesorio,8,59000,3,472000,2009,Enero,5
+P-0254,Micrófono USB Havit Lite,Periférico,18,605000,13,10890000,2012,Abril,5
+P-0255,Router WiFi Cisco Basic,Red,16,626000,11,10016000,2021,Septiembre,2
+P-0256,NAS Server Crucial V3,Almacenamiento,2,2590000,5,5180000,2020,Junio,10
+P-0257,Smart TV MSI V2,Electrónico,32,1667000,10,53344000,2011,Octubre,30
+P-0258,Memoria RAM Seagate Basic,Almacenamiento,1,285000,4,285000,2014,Agosto,27
+P-0259,Regleta Eléctrica Anker HD,Accesorio,2,118000,3,236000,2016,Noviembre,16
+P-0260,Switch 24 puertos Zyxel V2,Red,50,2456000,11,122800000,2014,Agosto,23
+P-0261,Disco SSD SanDisk Elite,Almacenamiento,13,650000,3,8450000,2003,Enero,27
+P-0262,Papel Fotográfico A4 AmazonBasics Ultra,Accesorio,3,55000,2,165000,2007,Abril,5
+P-0263,Papel Fotográfico A4 Orico Lite,Accesorio,6,20000,2,120000,2007,Mayo,25
+P-0264,Smart TV Dell X,Electrónico,47,3633000,10,170751000,2002,Septiembre,23
+P-0265,UPS 1200VA Sola Slim,Energía,45,522000,9,23490000,2010,Marzo,16
+P-0266,Soporte Monitor Anker Max,Accesorio,12,229000,9,2748000,2000,Mayo,15
+P-0267,Switch 8 puertos Cisco HD,Red,0,571000,13,0,2018,Agosto,20
+P-0268,Soporte Monitor Anker Pro,Accesorio,41,138000,13,5658000,2017,Diciembre,1
+P-0269,Rack 12U Netgear Max,Red,30,1413000,6,42390000,2007,Agosto,29
+P-0270,Disco HDD Transcend Pro,Almacenamiento,6,473000,12,2838000,2018,Febrero,3
+P-0271,Cámara Web A4Tech V2,Periférico,5,317000,6,1585000,2007,Enero,1
+P-0272,Licencia Antivirus Adobe Max,Software,33,161000,11,5313000,2000,Noviembre,9
+P-0273,Papel Fotográfico A4 Cable Matters V3,Accesorio,0,60000,8,0,2002,Octubre,7
+P-0274,Cable DisplayPort Belkin Ultra,Accesorio,29,93000,8,2697000,2022,Abril,27
+P-0275,Control de Acceso Dahua V2,Seguridad,9,1458000,3,13122000,2020,Diciembre,5
+P-0276,Patch Panel Mikrotik Pro,Red,2,305000,6,610000,2001,Marzo,18
+P-0277,Disco HDD Lexar Basic,Almacenamiento,2,265000,4,530000,2007,Mayo,31
+P-0278,Licencia Office 365 Bitdefender Plus,Software,10,350000,12,3500000,2002,Septiembre,24
+P-0279,Teclado Havit Mini,Periférico,3,158000,4,474000,2001,Enero,20
+P-0280,Limpiador Pantalla Vention HD,Accesorio,39,22000,13,858000,2010,Septiembre,17
+P-0281,Memoria USB Kingston Lite,Almacenamiento,20,103000,6,2060000,2002,Julio,14
+P-0282,Impresora Láser Lexmark Basic,Impresión,67,1967000,14,131789000,2016,Febrero,4
+P-0283,Lápiz Digitalizador Trust V2,Periférico,27,236000,9,6372000,2007,Abril,25
+P-0284,Limpiador Pantalla Orico SE,Accesorio,20,45000,8,900000,2008,Febrero,10
+P-0285,DVR 8 Canales Axis Elite,Seguridad,7,1092000,2,7644000,2021,Agosto,8
+P-0286,UPS 1200VA APC V3,Energía,0,1008000,15,0,2015,Febrero,10
+P-0287,Proyector Lenovo Ultra,Electrónico,0,5480000,10,0,2006,Noviembre,4
+P-0288,Router WiFi Cisco Slim,Red,37,407000,15,15059000,2017,Marzo,2
+P-0289,Mini PC HP Mini,Electrónico,23,959000,8,22057000,2004,Agosto,8
+P-0290,Tarjeta SD WD Max,Almacenamiento,1,87000,2,87000,2023,Diciembre,14
+P-0291,Sensor Movimiento Hanwha V2,Seguridad,0,170000,14,0,2018,Mayo,21
+P-0292,Tablet Acer Slim,Electrónico,61,1767000,13,107787000,2018,Septiembre,26
+P-0293,Cable DisplayPort Orico Lite,Accesorio,0,22000,3,0,2015,Diciembre,20
+P-0294,Scanner Corsair SE,Periférico,18,1094000,11,19692000,2007,Mayo,15
+P-0295,Limpiador Pantalla Ugreen Basic,Accesorio,0,31000,3,0,2025,Julio,3
+P-0296,SSD NVMe Transcend Lite,Almacenamiento,10,344000,3,3440000,2015,Agosto,4
+P-0297,Regleta Eléctrica Vention Pro,Accesorio,19,115000,10,2185000,2025,Agosto,27
+P-0298,Cartucho Epson Brother Pro,Impresión,10,135000,5,1350000,2013,Abril,29
+P-0299,Base Laptop Cable Matters Plus,Accesorio,0,189000,7,0,2006,Agosto,16
+P-0300,Rack 12U TP-Link Mini,Red,7,1612000,2,11284000,2003,Septiembre,20
+P-0301,Impresora 3D Xerox Pro,Impresión,0,4425000,14,0,2003,Marzo,18
+P-0302,Impresora Inkjet Xerox V2,Impresión,62,426000,14,26412000,2021,Julio,1
+P-0303,Disco HDD Seagate Pro,Almacenamiento,3,330000,10,990000,2013,Abril,21
+P-0304,Sensor Movimiento Hanwha Lite,Seguridad,17,263000,9,4471000,2011,Octubre,17
+P-0305,Smart TV Apple Pro,Electrónico,0,2401000,5,0,2013,Septiembre,19
+P-0306,Lápiz Digitalizador Logitech Max,Periférico,44,169000,10,7436000,2013,Diciembre,8
+P-0307,Access Point Ubiquiti Pro,Red,1,942000,5,942000,2014,Marzo,23
+P-0308,Licencia Antivirus Norton Max,Software,9,259000,3,2331000,2023,Febrero,5
+P-0309,Licencia AutoCAD Kaspersky V3,Software,2,2800000,8,5600000,2001,Mayo,10
+P-0310,Cable UTP Cat6 Zyxel Max,Red,2,33000,10,66000,2021,Julio,14
+P-0311,Adaptador USB-C HDMI Orico Plus,Accesorio,22,90000,11,1980000,2020,Junio,1
+P-0312,Firewall Bosch Max,Seguridad,2,2640000,3,5280000,2020,Septiembre,20
+P-0313,Papel Fotográfico A4 Orico X,Accesorio,4,63000,8,252000,2003,Mayo,12
+P-0314,Memoria RAM Lexar Pro,Almacenamiento,28,541000,11,15148000,2001,Enero,8
+P-0315,Escritorio Gaming Ergonómix Plus,Mobiliario,44,1954000,12,85976000,2012,Mayo,19
+P-0316,DVR 8 Canales Hanwha V2,Seguridad,0,907000,2,0,2023,Diciembre,14
+P-0317,Regleta Eléctrica Cable Matters HD,Accesorio,0,91000,2,0,2010,Mayo,6
+P-0318,Impresora Inkjet Kyocera V2,Impresión,25,695000,7,17375000,2025,Octubre,22
+P-0319,Tablet Toshiba Elite,Electrónico,32,2190000,9,70080000,2003,Octubre,22
+P-0320,Switch 8 puertos Cisco X,Red,30,360000,10,10800000,2007,Noviembre,3
+P-0321,Soporte Monitor Ugreen Basic,Accesorio,9,104000,2,936000,2006,Agosto,17
+P-0322,Rack 12U Tenda Slim,Red,2,1800000,3,3600000,2006,Marzo,12
+P-0323,Cable DisplayPort Orico Basic,Accesorio,44,58000,13,2552000,2017,Agosto,3
+P-0324,Lápiz Digitalizador Razer Elite,Periférico,14,308000,3,4312000,2014,Septiembre,31
+P-0325,Switch 8 puertos Cisco HD,Red,2,547000,12,1094000,2004,Agosto,17
+P-0326,UPS 1200VA Eaton Ultra,Energía,12,787000,15,9444000,2013,Junio,18
+P-0327,Mini PC Lenovo HD,Electrónico,4,1590000,10,6360000,2005,Junio,17
+P-0328,Cámara IP Dahua Basic,Seguridad,7,785000,2,5495000,2008,Septiembre,26
+P-0329,Switch 24 puertos Netgear X,Red,0,2460000,3,0,2014,Septiembre,17
+P-0330,NAS Server Lexar SE,Almacenamiento,50,2882000,14,144100000,2007,Julio,18
+P-0331,Smart TV Lenovo Max,Electrónico,13,3831000,3,49803000,2002,Agosto,1
+P-0332,Rack 12U Mikrotik Elite,Red,20,1779000,12,35580000,2014,Junio,13
+P-0333,Router WiFi TP-Link 4K,Red,3,307000,10,921000,2025,Abril,28
+P-0334,Micrófono USB Trust Slim,Periférico,3,543000,5,1629000,2017,Diciembre,16
+P-0335,Licencia Office 365 Microsoft Ultra,Software,29,350000,12,10150000,2003,Abril,2
+P-0336,Teclado SteelSeries X,Periférico,5,353000,3,1765000,2001,Octubre,21
+P-0337,Regulador Voltaje Eaton Elite,Energía,50,172000,12,8600000,2020,Julio,13
+P-0338,Disco HDD Transcend Pro,Almacenamiento,0,164000,3,0,2017,Abril,12
+P-0339,Soporte Monitor AmazonBasics X,Accesorio,10,142000,12,1420000,2026,Julio,9
+P-0340,SSD NVMe Transcend V2,Almacenamiento,43,311000,9,13373000,2000,Enero,24
+P-0341,Cartucho Epson Xerox Ultra,Impresión,17,168000,5,2856000,2002,Junio,1
+P-0342,Papel Fotográfico A4 Orico Plus,Accesorio,1,62000,2,62000,2024,Diciembre,12
+P-0343,Access Point Zyxel Basic,Red,0,628000,11,0,2007,Agosto,26
+P-0344,Licencia Antivirus Norton Max,Software,0,296000,8,0,2005,Diciembre,3
+P-0345,Memoria USB PNY SE,Almacenamiento,1,38000,7,38000,2013,Julio,12
+P-0346,Tóner HP Brother Basic,Impresión,0,121000,3,0,2015,Julio,8
+P-0347,Tarjeta SD Transcend Mini,Almacenamiento,67,93000,15,6231000,2015,Noviembre,24
+P-0348,Disco SSD Transcend V3,Almacenamiento,20,520000,5,10400000,2006,Noviembre,22
+P-0349,Patch Panel Zyxel Lite,Red,0,277000,9,0,2012,Marzo,21
+P-0350,NAS Server PNY Lite,Almacenamiento,6,2186000,5,13116000,2001,Agosto,4
+P-0351,Smartphone Acer Lite,Electrónico,45,3347000,15,150615000,2005,Enero,25
+P-0352,Cartucho Epson Lexmark Pro,Impresión,0,72000,8,0,2012,Marzo,19
+P-0353,Impresora 3D Xerox Max,Impresión,33,7757000,8,255981000,2000,Septiembre,24
+P-0354,Smartphone Toshiba SE,Electrónico,9,1697000,7,15273000,2012,Octubre,25
+P-0355,Tarjeta SD PNY Lite,Almacenamiento,25,170000,6,4250000,2008,Junio,11
+P-0356,Hub USB-C Vention Plus,Accesorio,15,160000,3,2400000,2025,Febrero,5
+P-0357,Disco HDD PNY Max,Almacenamiento,3,536000,4,1608000,2025,Agosto,2
+P-0358,NAS Server PNY Pro,Almacenamiento,0,1385000,2,0,2014,Febrero,12
+P-0359,Disco HDD Lexar SE,Almacenamiento,20,383000,4,7660000,2009,Septiembre,18
+P-0360,Teclado Trust Slim,Periférico,5,393000,7,1965000,2013,Agosto,11
+P-0361,Mochila Laptop AmazonBasics Ultra,Accesorio,44,292000,10,12848000,2022,Enero,27
+P-0362,Cable UTP Cat6 Ubiquiti Lite,Red,3,34000,2,102000,2023,Diciembre,21
+P-0363,SSD NVMe Transcend Ultra,Almacenamiento,6,924000,2,5544000,2025,Marzo,6
+P-0364,Soporte Monitor AmazonBasics HD,Accesorio,1,223000,11,223000,2017,Julio,27
+P-0365,Regulador Voltaje Tripp-Lite Elite,Energía,36,353000,12,12708000,2021,Noviembre,25
+P-0366,Auriculares Asus Pro,Electrónico,0,375000,5,0,2022,Marzo,22
+P-0367,Disco SSD Toshiba Elite,Almacenamiento,9,622000,13,5598000,2015,Febrero,15
+P-0368,Limpiador Pantalla Vention Slim,Accesorio,61,42000,15,2562000,2004,Agosto,23
+P-0369,Smartphone Lenovo SE,Electrónico,8,1749000,10,13992000,2006,Mayo,16
+P-0370,Rack 12U Tenda Max,Red,30,1004000,9,30120000,2009,Junio,21
+P-0371,Firewall Bosch V2,Seguridad,56,8124000,15,454944000,2006,Octubre,6
+P-0372,DVR 8 Canales Hanwha Ultra,Seguridad,13,1571000,5,20423000,2001,Diciembre,26
+P-0373,UPS 1200VA Forza Basic,Energía,4,784000,14,3136000,2018,Julio,5
+P-0374,Cable HDMI Cable Matters Lite,Accesorio,5,58000,9,290000,2023,Noviembre,3
+P-0375,Cartucho Epson HP X,Impresión,17,142000,8,2414000,2017,Febrero,23
+P-0376,Cartucho Epson HP Ultra,Impresión,27,65000,7,1755000,2001,Junio,25
+P-0377,Impresora 3D Xerox Lite,Impresión,13,3252000,5,42276000,2023,Noviembre,31
+P-0378,Mini PC MSI V3,Electrónico,0,1406000,4,0,2010,Septiembre,15
+P-0379,Mochila Laptop Vention Basic,Accesorio,10,244000,2,2440000,2001,Julio,2
+P-0380,Impresora Láser Xerox Basic,Impresión,14,915000,3,12810000,2001,Junio,10
+P-0381,Access Point Cisco V2,Red,4,420000,2,1680000,2018,Noviembre,7
+P-0382,SSD NVMe Lexar Lite,Almacenamiento,14,946000,5,13244000,2015,Diciembre,2
+P-0383,Disco SSD Crucial V2,Almacenamiento,0,260000,14,0,2016,Agosto,26
+P-0384,UPS 2000VA CyberPower SE,Energía,9,856000,4,7704000,2016,Septiembre,7
+P-0385,Mini PC HP 4K,Electrónico,61,1663000,14,101443000,2005,Enero,29
+P-0386,Licencia Antivirus Autodesk Slim,Software,1,139000,2,139000,2001,Octubre,2
+P-0387,Mini PC Samsung Ultra,Electrónico,43,1780000,12,76540000,2016,Febrero,11
+P-0388,Licencia AutoCAD Adobe 4K,Software,1,2800000,6,2800000,2002,Abril,30
+P-0389,Disco HDD Seagate V3,Almacenamiento,3,384000,12,1152000,2005,Noviembre,10
+P-0390,Laptop Samsung HD,Electrónico,23,2708000,11,62284000,2002,Noviembre,17
+P-0391,Gamepad Havit 4K,Periférico,35,327000,15,11445000,2019,Mayo,13
+P-0392,Proyector LG V2,Electrónico,19,2581000,4,49039000,2002,Abril,27
+P-0393,Disco SSD Kingston Pro,Almacenamiento,7,467000,8,3269000,2021,Diciembre,18
+P-0394,Tóner HP Canon Ultra,Impresión,29,234000,13,6786000,2007,Febrero,16
+P-0395,Soporte Monitor Ugreen V3,Accesorio,9,135000,2,1215000,2012,Julio,9
+P-0396,Papel Fotográfico A4 Anker Mini,Accesorio,29,61000,10,1769000,2003,Febrero,2
+P-0397,Cable HDMI Belkin V2,Accesorio,14,55000,7,770000,2018,Noviembre,25
+P-0398,Teclado Microsoft Elite,Periférico,36,312000,13,11232000,2007,Diciembre,21
+P-0399,SSD NVMe PNY Slim,Almacenamiento,56,762000,14,42672000,2018,Febrero,7
+P-0400,Control de Acceso Dahua HD,Seguridad,17,886000,12,15062000,2019,Agosto,10
+P-0401,Rack 12U Zyxel SE,Red,4,1390000,3,5560000,2001,Marzo,12
+P-0402,Smartphone MSI Slim,Electrónico,9,2970000,5,26730000,2019,Diciembre,28
+P-0403,Micrófono USB Trust 4K,Periférico,0,446000,9,0,2002,Mayo,25
+P-0404,Scanner Havit Lite,Periférico,13,443000,10,5759000,2013,Enero,2
+P-0405,Switch 24 puertos Netgear SE,Red,44,1500000,9,66000000,2021,Enero,28
+P-0406,Switch 24 puertos Ubiquiti V3,Red,1,694000,8,694000,2018,Junio,21
+P-0407,Mochila Laptop Anker X,Accesorio,3,157000,2,471000,2018,Enero,11
+P-0408,Firewall Hikvision Slim,Seguridad,0,2365000,9,0,2016,Mayo,9
+P-0409,SSD NVMe Seagate HD,Almacenamiento,60,418000,14,25080000,2010,Junio,4
+P-0410,Soporte Monitor Orico Max,Accesorio,33,172000,9,5676000,2008,Junio,26
+P-0411,Tarjeta SD WD V2,Almacenamiento,15,168000,4,2520000,2006,Julio,12
+P-0412,Mouse Corsair SE,Periférico,0,145000,10,0,2021,Marzo,14
+P-0413,Impresora Láser Kyocera Pro,Impresión,29,793000,6,22997000,2022,Abril,29
+P-0414,Firewall Honeywell SE,Seguridad,8,4907000,15,39256000,2010,Septiembre,13
+P-0415,Memoria RAM Seagate Ultra,Almacenamiento,15,373000,13,5595000,2007,Julio,24
+P-0416,DVR 8 Canales Hanwha Mini,Seguridad,1,612000,5,612000,2008,Octubre,15
+P-0417,Regleta Eléctrica Belkin Lite,Accesorio,15,111000,12,1665000,2012,Noviembre,29
+P-0418,Impresora Inkjet Xerox Pro,Impresión,4,731000,9,2924000,2004,Marzo,31
+P-0419,Funda Tablet AmazonBasics HD,Accesorio,13,59000,4,767000,2021,Marzo,13
+P-0420,Impresora Láser Kyocera Slim,Impresión,54,2006000,11,108324000,2020,Marzo,11
+P-0421,Control de Acceso Bosch Basic,Seguridad,20,998000,4,19960000,2009,Febrero,6
+P-0422,Impresora Láser Brother Ultra,Impresión,4,1827000,2,7308000,2014,Octubre,16
+P-0423,Escritorio Gaming DeskMate Mini,Mobiliario,0,1718000,9,0,2010,Julio,23
+P-0424,Memoria RAM Toshiba HD,Almacenamiento,20,717000,7,14340000,2024,Octubre,16
+P-0425,Auriculares Acer Mini,Electrónico,29,526000,14,15254000,2002,Noviembre,12
+P-0426,Licencia Office 365 Adobe Ultra,Software,17,350000,14,5950000,2000,Abril,30
+P-0427,UPS 1200VA Tripp-Lite Mini,Energía,0,1050000,10,0,2014,Agosto,26
+P-0428,Impresora Inkjet Canon Basic,Impresión,0,658000,12,0,2019,Octubre,17
+P-0429,Switch 8 puertos Mikrotik Plus,Red,16,768000,13,12288000,2018,Marzo,9
+P-0430,Tóner HP Brother V2,Impresión,0,239000,11,0,2003,Abril,26
+P-0431,Smart TV Asus HD,Electrónico,46,4319000,11,198674000,2002,Agosto,3
+P-0432,Scanner Microsoft Basic,Periférico,6,690000,6,4140000,2017,Noviembre,24
+P-0433,Scanner HyperX V3,Periférico,43,470000,13,20210000,2006,Mayo,14
+P-0434,Servidor Rack 1U Asus V3,Electrónico,4,15402000,13,61608000,2016,Agosto,3
+P-0435,UPS 1200VA Forza HD,Energía,30,769000,8,23070000,2008,Mayo,14
+P-0436,Papel Fotográfico A4 Ugreen Max,Accesorio,39,50000,9,1950000,2004,Noviembre,20
+P-0437,Funda Tablet AmazonBasics Max,Accesorio,1,97000,7,97000,2011,Enero,27
+P-0438,UPS 2000VA CyberPower V3,Energía,1,1078000,2,1078000,2002,Agosto,6
+P-0439,Cartucho Epson Epson Basic,Impresión,12,129000,5,1548000,2007,Mayo,18
+P-0440,Cable UTP Cat6 Mikrotik Ultra,Red,61,32000,15,1952000,2011,Noviembre,10
+P-0441,Soporte Monitor Cable Matters Lite,Accesorio,15,192000,4,2880000,2009,Septiembre,11
+P-0442,Micrófono USB Corsair V3,Periférico,1,459000,9,459000,2005,Marzo,4
+P-0443,Rack 12U TP-Link 4K,Red,63,802000,15,50526000,2014,Febrero,3
+P-0444,Laptop LG Elite,Electrónico,0,4083000,5,0,2026,Agosto,11
+P-0445,Auriculares HP Basic,Electrónico,39,1185000,9,46215000,2017,Junio,22
+P-0446,Base Laptop Orico Pro,Accesorio,10,56000,10,560000,2022,Octubre,10
+P-0447,Monitor MSI V3,Electrónico,11,1162000,10,12782000,2009,Mayo,10
+P-0448,Patch Panel Tenda HD,Red,11,211000,3,2321000,2019,Noviembre,15
+P-0449,Auriculares Asus Basic,Electrónico,65,666000,15,43290000,2025,Julio,20
+P-0450,NAS Server WD Max,Almacenamiento,23,2863000,9,65849000,2020,Diciembre,23
+P-0451,Papel Fotográfico A4 Cable Matters 4K,Accesorio,53,23000,12,1219000,2016,Mayo,14
+P-0452,Funda Tablet Belkin Plus,Accesorio,38,148000,8,5624000,2000,Agosto,6
+P-0453,Smartphone HP V3,Electrónico,9,1601000,3,14409000,2021,Mayo,23
+P-0454,Soporte Monitor AmazonBasics Max,Accesorio,72,219000,15,15768000,2026,Abril,15
+P-0455,Rack 12U TP-Link Basic,Red,51,1082000,15,55182000,2017,Julio,12
+P-0456,Access Point Ubiquiti Pro,Red,46,356000,12,16376000,2009,Agosto,15
+P-0457,UPS 2000VA Sola Pro,Energía,4,1147000,15,4588000,2021,Febrero,2
+P-0458,Regulador Voltaje CyberPower HD,Energía,1,288000,3,288000,2003,Abril,24
+P-0459,UPS 2000VA Tripp-Lite V2,Energía,30,1887000,7,56610000,2004,Julio,28
+P-0460,Teclado Razer SE,Periférico,0,257000,2,0,2008,Octubre,30
+P-0461,Impresora Láser Kyocera Plus,Impresión,49,2095000,11,102655000,2003,Junio,12
+P-0462,NAS Server SanDisk Pro,Almacenamiento,20,3797000,6,75940000,2003,Octubre,20
+P-0463,Cable UTP Cat6 D-Link Max,Red,32,25000,8,800000,2023,Mayo,14
+P-0464,Proyector Toshiba Ultra,Electrónico,0,3818000,13,0,2017,Diciembre,9
+P-0465,Tóner HP Epson Mini,Impresión,61,267000,14,16287000,2004,Mayo,21
+P-0466,Tarjeta SD SanDisk Max,Almacenamiento,0,57000,3,0,2008,Enero,26
+P-0467,Papel Fotográfico A4 Orico Max,Accesorio,0,35000,3,0,2009,Noviembre,31
+P-0468,Gamepad Genius Lite,Periférico,0,328000,3,0,2019,Julio,2
+P-0469,Memoria RAM PNY Plus,Almacenamiento,33,512000,15,16896000,2006,Mayo,3
+P-0470,SSD NVMe Toshiba HD,Almacenamiento,28,366000,13,10248000,2022,Enero,22
+P-0471,UPS 2000VA Eaton Elite,Energía,3,2183000,8,6549000,2010,Octubre,21
+P-0472,Papel Fotográfico A4 Ugreen Lite,Accesorio,2,27000,3,54000,2006,Noviembre,13
+P-0473,SSD NVMe Crucial Lite,Almacenamiento,2,358000,7,716000,2021,Diciembre,12
+P-0474,Adaptador USB-C HDMI Cable Matters Lite,Accesorio,2,111000,11,222000,2020,Enero,17
+P-0475,Teclado SteelSeries Pro,Periférico,19,282000,7,5358000,2008,Octubre,26
+P-0476,DVR 8 Canales Bosch Lite,Seguridad,16,1265000,8,20240000,2016,Diciembre,24
+P-0477,Papel Fotográfico A4 Ugreen X,Accesorio,10,62000,5,620000,2015,Agosto,22
+P-0478,NAS Server SanDisk Ultra,Almacenamiento,49,4210000,13,206290000,2008,Mayo,6
+P-0479,Cámara IP Dahua Max,Seguridad,18,665000,6,11970000,2001,Abril,31
+P-0480,Memoria USB WD Slim,Almacenamiento,22,97000,5,2134000,2002,Octubre,1
+P-0481,Gamepad A4Tech Pro,Periférico,5,356000,13,1780000,2020,Junio,5
+P-0482,Sensor Movimiento Hanwha Plus,Seguridad,52,189000,12,9828000,2013,Abril,28
+P-0483,Papel Fotográfico A4 Anker Ultra,Accesorio,16,60000,4,960000,2026,Noviembre,20
+P-0484,Smart TV Apple X,Electrónico,43,3162000,11,135966000,2008,Abril,22
+P-0485,Mini PC LG SE,Electrónico,58,925000,14,53650000,2001,Octubre,26
+P-0486,Licencia Adobe CC Bitdefender SE,Software,13,1200000,3,15600000,2000,Mayo,15
+P-0487,Base Laptop Ugreen Elite,Accesorio,0,220000,11,0,2010,Noviembre,2
+P-0488,Soporte Monitor Cable Matters V2,Accesorio,13,177000,14,2301000,2024,Diciembre,5
+P-0489,Router WiFi Cisco Pro,Red,5,280000,6,1400000,2004,Noviembre,3
+P-0490,UPS 1200VA Eaton V3,Energía,17,1069000,5,18173000,2020,Noviembre,8
+P-0491,Switch 24 puertos Netgear Max,Red,0,700000,9,0,2008,Marzo,25
+P-0492,SSD NVMe WD Plus,Almacenamiento,4,425000,7,1700000,2005,Noviembre,21
+P-0493,Cámara IP Dahua SE,Seguridad,21,774000,7,16254000,2023,Febrero,12
+P-0494,Adaptador USB-C HDMI Cable Matters Lite,Accesorio,1,75000,3,75000,2014,Noviembre,12
+P-0495,Monitor Samsung V2,Electrónico,59,823000,12,48557000,2017,Noviembre,13
+P-0496,Impresora Inkjet Lexmark Elite,Impresión,2,885000,4,1770000,2022,Enero,31
+P-0497,Switch 24 puertos D-Link HD,Red,11,1479000,12,16269000,2013,Mayo,19
+P-0498,Base Laptop Orico Mini,Accesorio,25,62000,13,1550000,2017,Agosto,2
+P-0499,Switch 8 puertos Tenda Mini,Red,5,224000,13,1120000,2000,Enero,20
+P-0500,Funda Tablet Cable Matters HD,Accesorio,0,61000,11,0,2003,Octubre,5
+P-0501,Licencia Antivirus ESET Elite,Software,1,307000,7,307000,2002,Junio,22
+P-0502,Impresora 3D Xerox 4K,Impresión,30,5509000,10,165270000,2022,Diciembre,15
+P-0503,Regleta Eléctrica Orico X,Accesorio,0,85000,11,0,2004,Marzo,31
+P-0504,Memoria RAM Lexar X,Almacenamiento,66,356000,15,23496000,2017,Febrero,12
+P-0505,Papel Fotográfico A4 Vention X,Accesorio,0,23000,12,0,2001,Mayo,12
+P-0506,Mouse HyperX Ultra,Periférico,8,74000,4,592000,2026,Junio,15
+P-0507,Patch Panel Tenda Mini,Red,17,425000,4,7225000,2011,Diciembre,25
+P-0508,Gamepad Microsoft V2,Periférico,5,208000,10,1040000,2018,Julio,3
+P-0509,Teclado Corsair Max,Periférico,0,310000,11,0,2017,Marzo,19
+P-0510,Memoria RAM Samsung Lite,Almacenamiento,22,319000,5,7018000,2004,Abril,5
+P-0511,Patch Panel Zyxel Mini,Red,37,470000,9,17390000,2013,Marzo,17
+P-0512,Cable UTP Cat6 Netgear Plus,Red,5,26000,2,130000,2004,Septiembre,12
+P-0513,Cartucho Epson HP Ultra,Impresión,8,102000,10,816000,2001,Junio,13
+P-0514,UPS 2000VA Sola HD,Energía,46,1794000,10,82524000,2009,Septiembre,11
+P-0515,Mouse SteelSeries HD,Periférico,49,184000,15,9016000,2011,Septiembre,21
+P-0516,Control de Acceso Hikvision HD,Seguridad,7,1283000,10,8981000,2025,Mayo,9
+P-0517,Cámara Web HyperX Ultra,Periférico,2,136000,9,272000,2001,Marzo,8
+P-0518,Switch 8 puertos Cisco HD,Red,23,462000,5,10626000,2011,Mayo,31
+P-0519,Cable HDMI Ugreen 4K,Accesorio,10,72000,4,720000,2006,Agosto,4
+P-0520,Control de Acceso Dahua HD,Seguridad,28,501000,11,14028000,2021,Mayo,1
+P-0521,Regleta Eléctrica Vention Elite,Accesorio,10,76000,13,760000,2007,Diciembre,24
+P-0522,Tóner HP Kyocera SE,Impresión,20,315000,12,6300000,2021,Junio,6
+P-0523,Funda Tablet AmazonBasics Mini,Accesorio,10,60000,6,600000,2003,Febrero,16
+P-0524,Cable HDMI AmazonBasics Elite,Accesorio,11,49000,4,539000,2011,Agosto,17
+P-0525,Funda Tablet AmazonBasics V2,Accesorio,0,145000,9,0,2024,Febrero,13
+P-0526,Escritorio Gaming ComfortPro V2,Mobiliario,13,1428000,8,18564000,2017,Marzo,30
+P-0527,NAS Server PNY V3,Almacenamiento,36,2339000,13,84204000,2013,Abril,18
+P-0528,Switch 24 puertos Zyxel Max,Red,3,1841000,2,5523000,2019,Noviembre,4
+P-0529,Adaptador USB-C HDMI Orico V2,Accesorio,17,120000,13,2040000,2023,Diciembre,9
+P-0530,Cámara IP Axis Mini,Seguridad,39,503000,8,19617000,2004,Noviembre,25
+P-0531,Tóner HP Canon 4K,Impresión,11,157000,7,1727000,2007,Julio,9
+P-0532,UPS 2000VA Tripp-Lite HD,Energía,14,1483000,12,20762000,2005,Septiembre,23
+P-0533,Cámara Web Microsoft Pro,Periférico,8,183000,15,1464000,2025,Junio,15
+P-0534,Laptop LG Basic,Electrónico,13,4320000,4,56160000,2025,Febrero,7
+P-0535,Micrófono USB SteelSeries Plus,Periférico,3,515000,7,1545000,2005,Julio,20
+P-0536,Base Laptop Cable Matters Elite,Accesorio,22,68000,8,1496000,2013,Enero,10
+P-0537,Router WiFi Cisco V3,Red,1,277000,2,277000,2000,Mayo,23
+P-0538,Teclado Havit Basic,Periférico,12,345000,12,4140000,2005,Septiembre,30
+P-0539,Cable HDMI Ugreen 4K,Accesorio,23,33000,15,759000,2023,Febrero,16
+P-0540,Access Point Cisco Basic,Red,4,672000,3,2688000,2010,Agosto,7
+P-0541,Cámara Web Trust Max,Periférico,8,273000,4,2184000,2025,Junio,4
+P-0542,Soporte Monitor Cable Matters Elite,Accesorio,49,92000,10,4508000,2013,Noviembre,5
+P-0543,Soporte Monitor Anker Lite,Accesorio,12,164000,13,1968000,2025,Diciembre,28
+P-0544,Auriculares LG X,Electrónico,2,1056000,15,2112000,2021,Noviembre,3
+P-0545,Teclado Razer X,Periférico,17,276000,7,4692000,2023,Mayo,15
+P-0546,Cámara IP Dahua Basic,Seguridad,0,563000,12,0,2025,Octubre,6
+P-0547,UPS 1200VA Eaton X,Energía,28,1102000,6,30856000,2007,Julio,29
+P-0548,Monitor Acer Basic,Electrónico,36,1660000,11,59760000,2008,Noviembre,23
+P-0549,Cartucho Epson Xerox Pro,Impresión,24,106000,9,2544000,2005,Junio,15
+P-0550,Cable UTP Cat6 Cisco SE,Red,11,8000,7,88000,2025,Febrero,3
+P-0551,Tarjeta SD Transcend Mini,Almacenamiento,40,123000,10,4920000,2022,Noviembre,26
+P-0552,Limpiador Pantalla Belkin Pro,Accesorio,1,16000,2,16000,2003,Abril,22
+P-0553,Mini PC HP HD,Electrónico,9,1665000,10,14985000,2012,Agosto,31
+P-0554,Limpiador Pantalla Orico Mini,Accesorio,11,37000,3,407000,2001,Enero,28
+P-0555,Silla Ergonómica FlexiDesk Ultra,Mobiliario,0,621000,6,0,2015,Octubre,11
+P-0556,Servidor Rack 1U Asus HD,Electrónico,2,8045000,10,16090000,2007,Septiembre,22
+P-0557,Papel Fotográfico A4 Cable Matters Mini,Accesorio,4,64000,15,256000,2006,Junio,12
+P-0558,Proyector LG Plus,Electrónico,30,5514000,11,165420000,2026,Octubre,23
+P-0559,Base Laptop Cable Matters V2,Accesorio,0,99000,3,0,2014,Abril,3
+P-0560,Teclado Logitech Elite,Periférico,32,334000,7,10688000,2011,Noviembre,18
+P-0561,Control de Acceso Hanwha Ultra,Seguridad,0,721000,7,0,2009,Febrero,18
+P-0562,Limpiador Pantalla AmazonBasics Ultra,Accesorio,35,19000,14,665000,2026,Noviembre,10
+P-0563,DVR 8 Canales Honeywell Ultra,Seguridad,1,1652000,3,1652000,2025,Agosto,29
+P-0564,Cable UTP Cat6 Zyxel SE,Red,4,19000,2,76000,2007,Diciembre,10
+P-0565,Memoria USB Seagate Ultra,Almacenamiento,18,38000,11,684000,2007,Mayo,28
+P-0566,Impresora Láser Xerox SE,Impresión,2,710000,2,1420000,2000,Noviembre,6
+P-0567,Impresora Inkjet HP Lite,Impresión,19,692000,8,13148000,2021,Julio,23
+P-0568,Mini PC HP SE,Electrónico,39,2494000,13,97266000,2006,Febrero,23
+P-0569,Impresora Láser Canon Basic,Impresión,2,2404000,13,4808000,2012,Marzo,30
+P-0570,UPS 2000VA Forza Plus,Energía,23,1808000,12,41584000,2010,Enero,23
+P-0571,Impresora Láser Kyocera SE,Impresión,0,888000,8,0,2008,Enero,21
+P-0572,Switch 24 puertos Ubiquiti HD,Red,5,2380000,6,11900000,2002,Mayo,6
+P-0573,Switch 24 puertos TP-Link Max,Red,15,1060000,6,15900000,2024,Agosto,26
+P-0574,Mochila Laptop Vention Basic,Accesorio,22,357000,7,7854000,2008,Febrero,12
+P-0575,Limpiador Pantalla AmazonBasics Basic,Accesorio,0,27000,4,0,2011,Febrero,17
+P-0576,SSD NVMe Samsung Basic,Almacenamiento,29,834000,7,24186000,2020,Abril,8
+P-0577,Licencia AutoCAD Microsoft Max,Software,68,2800000,14,190400000,2016,Septiembre,4
+P-0578,Mochila Laptop Cable Matters Ultra,Accesorio,12,173000,5,2076000,2012,Marzo,7
+P-0579,SSD NVMe Lexar Pro,Almacenamiento,1,425000,13,425000,2021,Julio,26
+P-0580,Servidor Rack 1U Asus Slim,Electrónico,31,14015000,8,434465000,2026,Agosto,5
+P-0581,Switch 24 puertos Cisco X,Red,0,845000,10,0,2017,Junio,8
+P-0582,Control de Acceso Honeywell Plus,Seguridad,16,507000,8,8112000,2010,Noviembre,26
+P-0583,Impresora Inkjet Canon Ultra,Impresión,67,642000,14,43014000,2000,Diciembre,16
+P-0584,Mochila Laptop Ugreen Max,Accesorio,2,351000,6,702000,2003,Diciembre,1
+P-0585,Teclado Havit Plus,Periférico,2,159000,3,318000,2008,Septiembre,12
+P-0586,Disco SSD Toshiba Plus,Almacenamiento,13,748000,7,9724000,2005,Julio,18
+P-0587,Switch 8 puertos Ubiquiti Lite,Red,0,491000,15,0,2018,Octubre,19
+P-0588,Micrófono USB SteelSeries 4K,Periférico,26,540000,13,14040000,2008,Diciembre,12
+P-0589,Sensor Movimiento Bosch Elite,Seguridad,6,108000,13,648000,2001,Diciembre,15
+P-0590,NAS Server PNY Pro,Almacenamiento,2,3973000,6,7946000,2003,Marzo,26
+P-0591,Monitor LG 4K,Electrónico,25,1526000,10,38150000,2019,Julio,18
+P-0592,Cámara Web Microsoft Plus,Periférico,0,191000,3,0,2013,Noviembre,5
+P-0593,Sensor Movimiento Dahua Elite,Seguridad,58,135000,15,7830000,2011,Febrero,20
+P-0594,Escritorio Gaming DeskMate Plus,Mobiliario,2,1772000,11,3544000,2023,Agosto,29
+P-0595,Monitor Dell Basic,Electrónico,20,2448000,12,48960000,2025,Octubre,3
+P-0596,Proyector Samsung Plus,Electrónico,0,2149000,9,0,2010,Julio,3
+P-0597,Mini PC Toshiba Mini,Electrónico,14,2532000,13,35448000,2013,Mayo,10
+P-0598,Tarjeta SD Toshiba Elite,Almacenamiento,13,120000,5,1560000,2019,Enero,13
+P-0599,Tóner HP Brother Slim,Impresión,5,123000,2,615000,2016,Diciembre,23
+P-0600,Soporte Monitor Ugreen Lite,Accesorio,15,180000,10,2700000,2003,Junio,24
+P-0601,Tóner HP Brother Elite,Impresión,21,192000,5,4032000,2012,Abril,16
+P-0602,Impresora Inkjet Xerox HD,Impresión,0,876000,14,0,2018,Agosto,17
+P-0603,Tarjeta SD SanDisk Lite,Almacenamiento,50,169000,14,8450000,2006,Agosto,14
+P-0604,Patch Panel Mikrotik Mini,Red,0,258000,4,0,2008,Abril,25
+P-0605,Regleta Eléctrica Anker Pro,Accesorio,9,70000,2,630000,2001,Junio,14
+P-0606,Rack 12U Mikrotik HD,Red,0,1126000,4,0,2022,Febrero,27
+P-0607,Base Laptop Anker Ultra,Accesorio,62,191000,15,11842000,2013,Noviembre,19
+P-0608,Smartphone Asus X,Electrónico,34,2490000,7,84660000,2000,Junio,3
+P-0609,Gamepad Corsair Basic,Periférico,36,282000,14,10152000,2016,Septiembre,5
+P-0610,Servidor Rack 1U Toshiba Pro,Electrónico,49,17025000,13,834225000,2025,Noviembre,11
+P-0611,UPS 2000VA CyberPower X,Energía,71,1165000,15,82715000,2017,Junio,21
+P-0612,Cable UTP Cat6 Ubiquiti Elite,Red,0,23000,2,0,2021,Enero,3
+P-0613,Impresora Láser Lexmark Basic,Impresión,31,781000,10,24211000,2023,Julio,15
+P-0614,Servidor Rack 1U Toshiba Basic,Electrónico,32,7637000,7,244384000,2023,Mayo,15
+P-0615,Licencia Office 365 Bitdefender Max,Software,0,350000,2,0,2023,Abril,22
+P-0616,Cable DisplayPort Anker HD,Accesorio,38,36000,15,1368000,2021,Febrero,17
+P-0617,Smart TV Samsung V3,Electrónico,29,3912000,8,113448000,2006,Agosto,12
+P-0618,Papel Fotográfico A4 Ugreen Elite,Accesorio,63,28000,13,1764000,2011,Febrero,5
+P-0619,Escritorio Gaming OfficePlus V2,Mobiliario,15,1229000,4,18435000,2013,Noviembre,29
+P-0620,Impresora Láser Xerox X,Impresión,6,1418000,8,8508000,2002,Abril,27
+P-0621,Cartucho Epson Epson Elite,Impresión,38,45000,13,1710000,2021,Noviembre,25
+P-0622,Licencia Office 365 Bitdefender X,Software,11,350000,4,3850000,2010,Noviembre,18
+P-0623,Escritorio Gaming ErgoChair Plus,Mobiliario,1,1596000,4,1596000,2019,Octubre,21
+P-0624,Impresora Inkjet Canon Max,Impresión,17,491000,12,8347000,2010,Enero,19
+P-0625,Control de Acceso Hanwha V2,Seguridad,0,1067000,9,0,2021,Enero,6
+P-0626,Scanner HyperX V3,Periférico,1,419000,7,419000,2003,Junio,25
+P-0627,Adaptador USB-C HDMI Belkin Pro,Accesorio,19,84000,9,1596000,2023,Abril,31
+P-0628,Licencia AutoCAD Kaspersky Lite,Software,10,2800000,7,28000000,2009,Marzo,5
+P-0629,Sensor Movimiento Honeywell HD,Seguridad,26,232000,12,6032000,2016,Octubre,14
+P-0630,Micrófono USB Microsoft Plus,Periférico,0,589000,15,0,2009,Abril,17
+P-0631,Monitor Samsung Ultra,Electrónico,2,814000,3,1628000,2021,Febrero,30
+P-0632,Micrófono USB Razer SE,Periférico,2,639000,3,1278000,2013,Septiembre,28
+P-0633,Cable DisplayPort Belkin Mini,Accesorio,21,43000,11,903000,2010,Abril,2
+P-0634,Smartphone Dell Max,Electrónico,22,1741000,5,38302000,2012,Octubre,27
+P-0635,Adaptador USB-C HDMI Cable Matters SE,Accesorio,4,68000,12,272000,2022,Abril,4
+P-0636,Cámara Web Logitech Mini,Periférico,0,371000,4,0,2009,Abril,17
+P-0637,Laptop LG Plus,Electrónico,53,2706000,15,143418000,2017,Junio,5
+P-0638,Access Point D-Link Plus,Red,3,306000,5,918000,2004,Marzo,10
+P-0639,Proyector Apple 4K,Electrónico,21,2746000,6,57666000,2006,Octubre,6
+P-0640,Cable UTP Cat6 Ubiquiti Plus,Red,33,28000,10,924000,2013,Enero,6
+P-0641,Licencia AutoCAD Kaspersky Max,Software,0,2800000,9,0,2021,Mayo,11
+P-0642,Switch 8 puertos Zyxel Ultra,Red,1,451000,15,451000,2012,Marzo,30
+P-0643,Auriculares Dell Plus,Electrónico,62,854000,14,52948000,2021,Marzo,23
+P-0644,Regulador Voltaje CyberPower SE,Energía,48,116000,15,5568000,2023,Septiembre,8
+P-0645,SSD NVMe PNY V2,Almacenamiento,41,766000,11,31406000,2005,Mayo,12
+P-0646,Papel Fotográfico A4 Belkin Mini,Accesorio,10,63000,2,630000,2019,Marzo,31
+P-0647,DVR 8 Canales Axis V2,Seguridad,10,881000,3,8810000,2018,Febrero,31
+P-0648,Gamepad Corsair Basic,Periférico,0,218000,4,0,2009,Noviembre,17
+P-0649,Proyector LG Basic,Electrónico,35,3011000,15,105385000,2012,Enero,29
+P-0650,Servidor Rack 1U Dell Plus,Electrónico,30,11858000,10,355740000,2017,Marzo,10
+P-0651,Licencia Office 365 Autodesk SE,Software,0,350000,15,0,2026,Enero,28
+P-0652,Cable HDMI Vention X,Accesorio,40,84000,14,3360000,2000,Junio,3
+P-0653,Auriculares Lenovo X,Electrónico,4,355000,3,1420000,2009,Abril,9
+P-0654,Cámara IP Bosch 4K,Seguridad,15,828000,7,12420000,2009,Octubre,7
+P-0655,Tarjeta SD Lexar X,Almacenamiento,1,151000,2,151000,2006,Junio,21
+P-0656,Auriculares Toshiba X,Electrónico,7,972000,2,6804000,2013,Enero,31
+P-0657,Cable HDMI Anker Pro,Accesorio,6,78000,6,468000,2025,Marzo,18
+P-0658,Disco HDD Crucial Ultra,Almacenamiento,59,293000,15,17287000,2018,Mayo,9
+P-0659,Hub USB-C Belkin 4K,Accesorio,3,211000,4,633000,2019,Enero,5
+P-0660,Switch 8 puertos Mikrotik Ultra,Red,23,646000,11,14858000,2020,Marzo,21
+P-0661,Switch 8 puertos D-Link Slim,Red,46,636000,13,29256000,2010,Diciembre,10
+P-0662,Licencia Antivirus Autodesk 4K,Software,14,148000,10,2072000,2014,Julio,20
+P-0663,Papel Fotográfico A4 Cable Matters SE,Accesorio,20,43000,4,860000,2014,Septiembre,18
+P-0664,Licencia AutoCAD ESET Pro,Software,11,2800000,5,30800000,2014,Febrero,3
+P-0665,Sensor Movimiento Hikvision Basic,Seguridad,0,93000,9,0,2021,Diciembre,17
+P-0666,Memoria USB Kingston Ultra,Almacenamiento,40,72000,15,2880000,2006,Febrero,21
+P-0667,Escritorio Gaming Ergonómix V2,Mobiliario,24,642000,5,15408000,2016,Agosto,6
+P-0668,Switch 8 puertos Netgear 4K,Red,33,705000,11,23265000,2015,Agosto,19
+P-0669,Micrófono USB SteelSeries V3,Periférico,0,605000,13,0,2025,Junio,31
+P-0670,Monitor LG Pro,Electrónico,28,933000,15,26124000,2025,Septiembre,19
+P-0671,Licencia Office 365 Adobe V2,Software,11,350000,12,3850000,2023,Octubre,5
+P-0672,SSD NVMe PNY Pro,Almacenamiento,20,289000,9,5780000,2005,Febrero,6
+P-0673,Regleta Eléctrica AmazonBasics Pro,Accesorio,15,63000,6,945000,2021,Agosto,22
+P-0674,Cable DisplayPort Cable Matters V2,Accesorio,30,57000,8,1710000,2002,Septiembre,20
+P-0675,Switch 24 puertos Ubiquiti Basic,Red,25,1605000,6,40125000,2009,Abril,24
+P-0676,NAS Server Transcend Plus,Almacenamiento,33,1230000,10,40590000,2016,Octubre,29
+P-0677,UPS 1200VA Sola X,Energía,1,1103000,6,1103000,2021,Enero,20
+P-0678,Access Point Cisco Max,Red,5,563000,12,2815000,2020,Diciembre,11
+P-0679,Impresora 3D Xerox V3,Impresión,5,6836000,6,34180000,2019,Noviembre,27
+P-0680,Funda Tablet Anker Slim,Accesorio,65,59000,14,3835000,2010,Septiembre,30
+P-0681,Regleta Eléctrica Orico V2,Accesorio,0,75000,12,0,2002,Mayo,19
+P-0682,Monitor Apple Ultra,Electrónico,10,1131000,8,11310000,2026,Agosto,2
+P-0683,Regulador Voltaje Sola X,Energía,14,182000,7,2548000,2024,Noviembre,27
+P-0684,Hub USB-C Vention V2,Accesorio,31,338000,12,10478000,2007,Enero,28
+P-0685,Licencia Office 365 Adobe 4K,Software,0,350000,6,0,2021,Enero,1
+P-0686,Teclado SteelSeries V3,Periférico,57,366000,14,20862000,2009,Agosto,3
+P-0687,Licencia Adobe CC Autodesk V2,Software,14,1200000,5,16800000,2007,Julio,2
+P-0688,SSD NVMe SanDisk Max,Almacenamiento,2,546000,11,1092000,2025,Julio,31
+P-0689,Access Point TP-Link 4K,Red,50,929000,11,46450000,2006,Noviembre,21
+P-0690,Smart TV Apple Slim,Electrónico,0,1996000,10,0,2004,Febrero,25
+P-0691,Hub USB-C Orico SE,Accesorio,0,247000,8,0,2000,Agosto,19
+P-0692,Licencia Office 365 Adobe Elite,Software,25,350000,7,8750000,2001,Diciembre,9
+P-0693,Licencia Adobe CC Kaspersky Elite,Software,64,1200000,15,76800000,2007,Agosto,21
+P-0694,Proyector Apple Max,Electrónico,7,3248000,7,22736000,2015,Febrero,7
+P-0695,Switch 8 puertos Ubiquiti Basic,Red,42,392000,11,16464000,2019,Febrero,25
+P-0696,Cámara IP Hikvision Elite,Seguridad,33,909000,8,29997000,2024,Junio,19
+P-0697,Router WiFi Zyxel Mini,Red,7,184000,2,1288000,2002,Octubre,14
+P-0698,Laptop Samsung HD,Electrónico,0,3675000,5,0,2014,Marzo,20
+P-0699,Laptop Asus Basic,Electrónico,1,4340000,7,4340000,2013,Febrero,21
+P-0700,Tarjeta SD PNY X,Almacenamiento,0,108000,4,0,2020,Marzo,1
+P-0701,Tablet Acer Ultra,Electrónico,46,1733000,13,79718000,2018,Mayo,16
+P-0702,Disco HDD Toshiba Slim,Almacenamiento,2,501000,4,1002000,2006,Octubre,29
+P-0703,Memoria RAM Kingston Elite,Almacenamiento,1,593000,2,593000,2022,Noviembre,21
+P-0704,Scanner Logitech X,Periférico,0,866000,4,0,2022,Octubre,18
+P-0705,Cable DisplayPort Cable Matters HD,Accesorio,24,26000,8,624000,2012,Septiembre,10
+P-0706,Limpiador Pantalla Vention X,Accesorio,53,15000,11,795000,2015,Diciembre,21
+P-0707,Cámara Web Logitech Pro,Periférico,15,179000,8,2685000,2012,Junio,31
+P-0708,UPS 1200VA Forza Lite,Energía,3,1198000,4,3594000,2007,Julio,10
+P-0709,Escritorio Gaming Ergonómix Ultra,Mobiliario,0,1441000,12,0,2004,Octubre,16
+P-0710,Rack 12U Ubiquiti X,Red,14,930000,8,13020000,2020,Septiembre,8
+P-0711,Patch Panel Cisco Ultra,Red,0,178000,14,0,2022,Mayo,26
+P-0712,Lápiz Digitalizador Havit Basic,Periférico,12,289000,6,3468000,2000,Agosto,26
+P-0713,Memoria RAM Toshiba Ultra,Almacenamiento,5,344000,2,1720000,2024,Septiembre,22
+P-0714,Cable HDMI Orico Max,Accesorio,0,48000,2,0,2024,Octubre,13
+P-0715,Proyector Dell 4K,Electrónico,20,5847000,4,116940000,2003,Julio,10
+P-0716,Smart TV Dell Slim,Electrónico,5,2248000,12,11240000,2024,Febrero,15
+P-0717,Impresora 3D Brother Pro,Impresión,1,2317000,15,2317000,2013,Diciembre,3
+P-0718,Licencia Office 365 Autodesk Max,Software,14,350000,8,4900000,2007,Febrero,23
+P-0719,Licencia Office 365 Bitdefender Slim,Software,4,350000,2,1400000,2005,Noviembre,2
+P-0720,Disco HDD SanDisk Slim,Almacenamiento,2,374000,11,748000,2025,Noviembre,6
+P-0721,Memoria USB SanDisk Elite,Almacenamiento,37,39000,8,1443000,2022,Septiembre,15
+P-0722,Tóner HP Kyocera Mini,Impresión,41,261000,15,10701000,2016,Diciembre,14
+P-0723,Soporte Monitor AmazonBasics Elite,Accesorio,5,103000,4,515000,2014,Abril,16
+P-0724,Licencia Office 365 Adobe Plus,Software,47,350000,11,16450000,2001,Julio,15
+P-0725,Hub USB-C Orico Elite,Accesorio,15,289000,14,4335000,2017,Agosto,7
+P-0726,Licencia Antivirus Norton Slim,Software,16,186000,9,2976000,2007,Abril,11
+P-0727,Licencia AutoCAD Kaspersky Lite,Software,2,2800000,3,5600000,2003,Julio,20
+P-0728,Laptop MSI HD,Electrónico,55,3861000,13,212355000,2014,Junio,5
+P-0729,Licencia Antivirus Autodesk SE,Software,19,387000,13,7353000,2004,Agosto,11
+P-0730,Router WiFi D-Link Lite,Red,36,534000,12,19224000,2025,Julio,28
+P-0731,Auriculares MSI Slim,Electrónico,4,261000,2,1044000,2014,Julio,23
+P-0732,Patch Panel Zyxel 4K,Red,13,373000,15,4849000,2021,Diciembre,11
+P-0733,Cable UTP Cat6 Mikrotik Basic,Red,0,18000,6,0,2016,Febrero,24
+P-0734,Impresora Láser Lexmark V2,Impresión,13,2250000,8,29250000,2017,Junio,28
+P-0735,Switch 24 puertos Zyxel HD,Red,0,1823000,9,0,2019,Julio,12
+P-0736,Cable UTP Cat6 Zyxel Max,Red,10,11000,9,110000,2010,Junio,13
+P-0737,Cámara Web Genius Mini,Periférico,15,138000,10,2070000,2024,Noviembre,5
+P-0738,Cámara IP Axis X,Seguridad,23,932000,6,21436000,2014,Mayo,25
+P-0739,Scanner Microsoft Max,Periférico,0,722000,15,0,2019,Junio,12
+P-0740,Impresora Láser Kyocera Lite,Impresión,48,2059000,10,98832000,2026,Marzo,17
+P-0741,Access Point Mikrotik V3,Red,0,743000,3,0,2023,Noviembre,18
+P-0742,Base Laptop Anker Pro,Accesorio,32,142000,7,4544000,2016,Agosto,4
+P-0743,Cartucho Epson Lexmark SE,Impresión,0,140000,13,0,2013,Febrero,11
+P-0744,Licencia Adobe CC Adobe Lite,Software,61,1200000,15,73200000,2026,Febrero,8
+P-0745,SSD NVMe WD Ultra,Almacenamiento,4,905000,5,3620000,2017,Febrero,15
+P-0746,Scanner Microsoft 4K,Periférico,7,545000,13,3815000,2014,Febrero,4
+P-0747,Tablet Toshiba Plus,Electrónico,41,1722000,9,70602000,2005,Julio,9
+P-0748,Teclado Microsoft Pro,Periférico,0,351000,13,0,2023,Febrero,15
+P-0749,Mini PC LG 4K,Electrónico,20,2048000,9,40960000,2015,Diciembre,8
+P-0750,Cable HDMI Vention Elite,Accesorio,12,34000,3,408000,2014,Diciembre,5
+P-0751,Regleta Eléctrica Ugreen SE,Accesorio,23,84000,8,1932000,2008,Junio,4
+P-0752,Tóner HP Brother Max,Impresión,17,160000,9,2720000,2024,Marzo,2
+P-0753,SSD NVMe Transcend V3,Almacenamiento,23,804000,6,18492000,2007,Septiembre,10
+P-0754,Licencia Antivirus Autodesk V3,Software,4,403000,12,1612000,2026,Enero,31
+P-0755,Silla Ergonómica DeskMate Ultra,Mobiliario,0,1157000,12,0,2020,Octubre,13
+P-0756,Cable DisplayPort Cable Matters Elite,Accesorio,30,86000,10,2580000,2008,Septiembre,28
+P-0757,Cable DisplayPort Belkin HD,Accesorio,46,67000,10,3082000,2024,Septiembre,20
+P-0758,Base Laptop Cable Matters Mini,Accesorio,19,191000,6,3629000,2024,Junio,14
+P-0759,DVR 8 Canales Hikvision SE,Seguridad,2,798000,2,1596000,2016,Noviembre,8
+P-0760,Base Laptop Belkin Basic,Accesorio,32,123000,14,3936000,2015,Febrero,31
+P-0761,Hub USB-C Ugreen Elite,Accesorio,26,126000,13,3276000,2020,Julio,28
+P-0762,Funda Tablet Vention Pro,Accesorio,54,136000,15,7344000,2007,Junio,29
+P-0763,Licencia Antivirus Norton V3,Software,11,407000,15,4477000,2008,Noviembre,6
+P-0764,UPS 1200VA Tripp-Lite Basic,Energía,58,1003000,14,58174000,2014,Julio,27
+P-0765,Cartucho Epson Xerox V2,Impresión,28,57000,8,1596000,2002,Diciembre,11
+P-0766,UPS 1200VA APC Pro,Energía,19,737000,5,14003000,2022,Enero,30
+P-0767,Sensor Movimiento Dahua Slim,Seguridad,36,247000,13,8892000,2009,Mayo,19
+P-0768,Funda Tablet Vention SE,Accesorio,26,95000,14,2470000,2007,Octubre,24
+P-0769,Cartucho Epson Brother Elite,Impresión,20,64000,4,1280000,2008,Mayo,11
+P-0770,Mouse Genius Pro,Periférico,10,154000,6,1540000,2010,Junio,7
+P-0771,Micrófono USB Havit 4K,Periférico,1,310000,2,310000,2010,Febrero,25
+P-0772,Tablet Lenovo Slim,Electrónico,0,1460000,11,0,2017,Octubre,6
+P-0773,Mini PC Toshiba 4K,Electrónico,24,2205000,6,52920000,2002,Septiembre,16
+P-0774,UPS 1200VA Forza Plus,Energía,3,805000,10,2415000,2004,Abril,17
+P-0775,Rack 12U Cisco HD,Red,16,1684000,4,26944000,2004,Marzo,15
+P-0776,Proyector Samsung Basic,Electrónico,6,3547000,12,21282000,2007,Noviembre,16
+P-0777,Cartucho Epson Epson HD,Impresión,9,180000,9,1620000,2012,Agosto,29
+P-0778,Mouse Trust Lite,Periférico,51,106000,12,5406000,2022,Abril,10
+P-0779,Impresora Inkjet HP V2,Impresión,15,648000,8,9720000,2004,Febrero,16
+P-0780,Tarjeta SD Crucial SE,Almacenamiento,7,102000,2,714000,2022,Junio,1
+P-0781,Patch Panel Zyxel Lite,Red,12,142000,6,1704000,2006,Septiembre,3
+P-0782,Disco SSD PNY Plus,Almacenamiento,4,298000,4,1192000,2002,Junio,31
+P-0783,Escritorio Gaming Ergonómix Basic,Mobiliario,55,1952000,12,107360000,2013,Febrero,13
+P-0784,Router WiFi Cisco Basic,Red,62,730000,15,45260000,2013,Mayo,17
+P-0785,Limpiador Pantalla Orico V2,Accesorio,14,16000,13,224000,2010,Octubre,15
+P-0786,Switch 24 puertos Mikrotik Pro,Red,0,829000,3,0,2017,Abril,31
+P-0787,Cámara IP Bosch SE,Seguridad,27,352000,11,9504000,2014,Julio,8
+P-0788,SSD NVMe Toshiba Lite,Almacenamiento,9,925000,8,8325000,2013,Septiembre,7
+P-0789,Tarjeta SD WD SE,Almacenamiento,16,31000,12,496000,2001,Octubre,19
+P-0790,Funda Tablet Cable Matters X,Accesorio,35,56000,13,1960000,2006,Octubre,12
+P-0791,Mini PC MSI Plus,Electrónico,52,1443000,14,75036000,2026,Noviembre,2
+P-0792,Proyector Acer HD,Electrónico,9,5385000,8,48465000,2013,Noviembre,2
+P-0793,Access Point Netgear SE,Red,13,505000,4,6565000,2012,Septiembre,10
+P-0794,Escritorio Gaming FlexiDesk Ultra,Mobiliario,55,1967000,14,108185000,2024,Enero,16
+P-0795,Memoria USB Samsung SE,Almacenamiento,0,96000,4,0,2018,Octubre,20
+P-0796,Laptop Toshiba X,Electrónico,15,3114000,10,46710000,2022,Noviembre,29
+P-0797,Papel Fotográfico A4 Anker V3,Accesorio,7,65000,13,455000,2000,Diciembre,27
+P-0798,Licencia Adobe CC Norton 4K,Software,3,1200000,4,3600000,2024,Mayo,21
+P-0799,Sensor Movimiento Bosch Basic,Seguridad,5,114000,4,570000,2018,Enero,22
+P-0800,Licencia Office 365 Bitdefender Slim,Software,30,350000,12,10500000,2012,Marzo,16
+P-0801,Base Laptop Belkin Ultra,Accesorio,20,80000,5,1600000,2015,Mayo,10
+P-0802,Disco HDD SanDisk Elite,Almacenamiento,5,493000,12,2465000,2000,Diciembre,18
+P-0803,Silla Ergonómica Ergonómix Slim,Mobiliario,17,846000,7,14382000,2011,Mayo,1
+P-0804,Silla Ergonómica DeskMate Ultra,Mobiliario,15,1646000,4,24690000,2009,Junio,28
+P-0805,DVR 8 Canales Bosch Mini,Seguridad,1,925000,2,925000,2024,Junio,4
+P-0806,Cable DisplayPort Cable Matters V2,Accesorio,10,77000,6,770000,2012,Enero,14
+P-0807,Hub USB-C Cable Matters Max,Accesorio,28,340000,9,9520000,2026,Marzo,5
+P-0808,Cable UTP Cat6 Cisco Elite,Red,0,28000,11,0,2013,Marzo,29
+P-0809,Tóner HP Kyocera 4K,Impresión,2,120000,10,240000,2017,Octubre,9
+P-0810,Adaptador USB-C HDMI Belkin Slim,Accesorio,16,37000,15,592000,2023,Noviembre,24
+P-0811,Control de Acceso Axis X,Seguridad,16,1209000,14,19344000,2023,Julio,12
+P-0812,UPS 1200VA Forza SE,Energía,18,1032000,9,18576000,2017,Febrero,25
+P-0813,Memoria USB Toshiba Basic,Almacenamiento,21,100000,13,2100000,2025,Marzo,13
+P-0814,Switch 24 puertos Cisco Mini,Red,0,1395000,10,0,2019,Diciembre,12
+P-0815,Impresora Inkjet Kyocera HD,Impresión,9,948000,12,8532000,2007,Noviembre,2
+P-0816,Teclado Microsoft Elite,Periférico,53,171000,11,9063000,2015,Enero,13
+P-0817,Licencia Antivirus Adobe V3,Software,0,367000,7,0,2007,Febrero,2
+P-0818,Funda Tablet Orico Basic,Accesorio,7,61000,6,427000,2008,Diciembre,19
+P-0819,Base Laptop Anker SE,Accesorio,37,147000,8,5439000,2013,Septiembre,18
+P-0820,Licencia AutoCAD Microsoft Pro,Software,11,2800000,3,30800000,2015,Abril,7
+P-0821,Escritorio Gaming ComfortPro 4K,Mobiliario,24,2099000,6,50376000,2000,Julio,12
+P-0822,Gamepad Genius V2,Periférico,35,313000,7,10955000,2012,Julio,18
+P-0823,Sensor Movimiento Hikvision SE,Seguridad,22,149000,8,3278000,2010,Agosto,10
+P-0824,Rack 12U Tenda Max,Red,9,1356000,9,12204000,2021,Junio,3
+P-0825,Patch Panel Netgear Lite,Red,0,204000,5,0,2021,Marzo,13
+P-0826,Soporte Monitor Ugreen Basic,Accesorio,3,113000,4,339000,2025,Junio,17
+P-0827,Cable DisplayPort AmazonBasics Plus,Accesorio,15,51000,8,765000,2012,Mayo,15
+P-0828,Access Point Zyxel Lite,Red,7,495000,11,3465000,2023,Diciembre,25
+P-0829,Monitor Asus Pro,Electrónico,19,861000,11,16359000,2005,Junio,18
+P-0830,Escritorio Gaming ErgoChair Pro,Mobiliario,0,1752000,4,0,2026,Octubre,9
+P-0831,Impresora 3D Epson SE,Impresión,51,4821000,11,245871000,2014,Octubre,27
+P-0832,Monitor Acer Plus,Electrónico,39,1043000,9,40677000,2004,Febrero,20
+P-0833,Licencia Antivirus Kaspersky Elite,Software,24,232000,15,5568000,2019,Enero,22
+P-0834,Cámara IP Axis 4K,Seguridad,27,466000,11,12582000,2017,Marzo,20
+P-0835,Micrófono USB Trust Slim,Periférico,25,412000,11,10300000,2000,Marzo,4
+P-0836,Tarjeta SD Toshiba Elite,Almacenamiento,1,57000,2,57000,2012,Octubre,5
+P-0837,Control de Acceso Dahua X,Seguridad,5,577000,4,2885000,2018,Enero,4
+P-0838,Licencia AutoCAD Bitdefender SE,Software,5,2800000,3,14000000,2018,Noviembre,13
+P-0839,Licencia Adobe CC ESET SE,Software,41,1200000,14,49200000,2021,Febrero,12
+P-0840,Rack 12U Tenda Max,Red,27,738000,13,19926000,2000,Mayo,26
+P-0841,DVR 8 Canales Honeywell HD,Seguridad,30,1360000,7,40800000,2002,Agosto,11
+P-0842,Servidor Rack 1U Toshiba Plus,Electrónico,1,12471000,4,12471000,2020,Noviembre,18
+P-0843,Servidor Rack 1U Dell Ultra,Electrónico,22,15302000,10,336644000,2013,Julio,31
+P-0844,Laptop HP X,Electrónico,9,3640000,3,32760000,2004,Agosto,12
+P-0845,Soporte Monitor Anker V3,Accesorio,10,280000,7,2800000,2014,Octubre,25
+P-0846,Auriculares LG V2,Electrónico,19,669000,6,12711000,2005,Agosto,5
+P-0847,UPS 2000VA Forza X,Energía,25,1344000,12,33600000,2001,Julio,7
+P-0848,SSD NVMe PNY HD,Almacenamiento,8,850000,9,6800000,2008,Mayo,20
+P-0849,Impresora 3D Canon X,Impresión,61,4320000,14,263520000,2012,Abril,17
+P-0850,Teclado Razer V3,Periférico,19,197000,9,3743000,2010,Septiembre,13
+P-0851,Cámara Web HyperX SE,Periférico,9,325000,14,2925000,2006,Febrero,17
+P-0852,Silla Ergonómica DeskMate V2,Mobiliario,4,556000,4,2224000,2014,Junio,2
+P-0853,DVR 8 Canales Hikvision 4K,Seguridad,36,877000,9,31572000,2010,Julio,2
+P-0854,Proyector Dell Ultra,Electrónico,0,3616000,7,0,2010,Febrero,2
+P-0855,Tablet LG Slim,Electrónico,29,1620000,11,46980000,2024,Mayo,5
+P-0856,Cable DisplayPort Vention Pro,Accesorio,12,44000,12,528000,2012,Noviembre,23
+P-0857,Lápiz Digitalizador A4Tech Ultra,Periférico,10,139000,2,1390000,2008,Noviembre,11
+P-0858,Rack 12U D-Link X,Red,0,997000,12,0,2024,Octubre,26
+P-0859,Impresora Inkjet Xerox Pro,Impresión,15,481000,3,7215000,2026,Agosto,16
+P-0860,NAS Server SanDisk V2,Almacenamiento,8,2818000,8,22544000,2013,Septiembre,17
+P-0861,Mochila Laptop Cable Matters Plus,Accesorio,9,166000,10,1494000,2008,Noviembre,15
+P-0862,Servidor Rack 1U Toshiba Max,Electrónico,10,11193000,15,111930000,2026,Mayo,5
+P-0863,Lápiz Digitalizador Microsoft Slim,Periférico,0,193000,11,0,2002,Enero,20
+P-0864,Gamepad Genius SE,Periférico,0,174000,10,0,2015,Abril,29
+P-0865,Cartucho Epson Canon Plus,Impresión,24,176000,6,4224000,2000,Julio,17
+P-0866,Impresora 3D Xerox Lite,Impresión,26,4589000,11,119314000,2023,Octubre,5
+P-0867,Funda Tablet Ugreen HD,Accesorio,49,162000,12,7938000,2017,Enero,11
+P-0868,Licencia Antivirus Microsoft Lite,Software,0,179000,6,0,2001,Enero,30
+P-0869,Escritorio Gaming FlexiDesk V2,Mobiliario,18,2016000,5,36288000,2011,Abril,20
+P-0870,Memoria RAM PNY SE,Almacenamiento,28,189000,13,5292000,2007,Mayo,11
+P-0871,Cartucho Epson HP Mini,Impresión,5,132000,3,660000,2020,Abril,6
+P-0872,Access Point Mikrotik Max,Red,4,503000,11,2012000,2002,Marzo,13
+P-0873,Cable UTP Cat6 D-Link Basic,Red,11,31000,5,341000,2024,Mayo,20
+P-0874,Impresora Láser Epson 4K,Impresión,24,1722000,15,41328000,2020,Mayo,24
+P-0875,Limpiador Pantalla Belkin Plus,Accesorio,43,17000,12,731000,2001,Junio,27
+P-0876,Silla Ergonómica Ergonómix HD,Mobiliario,7,1558000,2,10906000,2024,Febrero,10
+P-0877,Silla Ergonómica ComfortPro Lite,Mobiliario,3,1626000,15,4878000,2000,Enero,19
+P-0878,Funda Tablet Vention Ultra,Accesorio,9,146000,5,1314000,2007,Agosto,11
+P-0879,Smartphone MSI HD,Electrónico,11,2633000,9,28963000,2006,Diciembre,17
+P-0880,Patch Panel Mikrotik Mini,Red,2,471000,14,942000,2026,Julio,27
+P-0881,Cable HDMI Vention Lite,Accesorio,0,58000,13,0,2000,Marzo,17
+P-0882,Hub USB-C Anker Mini,Accesorio,34,146000,7,4964000,2019,Marzo,18
+P-0883,Impresora 3D Epson SE,Impresión,3,3653000,5,10959000,2004,Julio,16
+P-0884,Memoria USB Seagate Lite,Almacenamiento,16,79000,5,1264000,2007,Septiembre,23
+P-0885,Memoria USB Toshiba Ultra,Almacenamiento,11,82000,4,902000,2004,Diciembre,19
+P-0886,Control de Acceso Hikvision V3,Seguridad,7,932000,14,6524000,2015,Abril,10
+P-0887,Licencia Office 365 Kaspersky Basic,Software,23,350000,14,8050000,2021,Septiembre,16
+P-0888,Access Point TP-Link Elite,Red,0,711000,9,0,2003,Septiembre,27
+P-0889,Licencia Adobe CC Bitdefender V2,Software,30,1200000,14,36000000,2018,Noviembre,1
+P-0890,UPS 1200VA Eaton Pro,Energía,3,887000,3,2661000,2006,Junio,12
+P-0891,Scanner SteelSeries Lite,Periférico,8,994000,3,7952000,2014,Febrero,11
+P-0892,Impresora 3D Canon Max,Impresión,26,6090000,10,158340000,2022,Julio,22
+P-0893,Memoria RAM Samsung Mini,Almacenamiento,26,304000,7,7904000,2008,Diciembre,4
+P-0894,Lápiz Digitalizador Havit X,Periférico,30,256000,12,7680000,2024,Enero,14
+P-0895,Memoria RAM SanDisk V2,Almacenamiento,37,702000,9,25974000,2011,Julio,19
+P-0896,Licencia AutoCAD Microsoft Mini,Software,18,2800000,9,50400000,2005,Enero,10
+P-0897,Licencia Antivirus Adobe V2,Software,33,292000,8,9636000,2019,Agosto,26
+P-0898,Licencia Office 365 Microsoft Plus,Software,3,350000,7,1050000,2019,Febrero,29
+P-0899,Soporte Monitor Ugreen V3,Accesorio,28,143000,11,4004000,2023,Junio,24
+P-0900,Licencia AutoCAD Kaspersky HD,Software,41,2800000,13,114800000,2022,Octubre,28
+P-0901,SSD NVMe Seagate Elite,Almacenamiento,12,303000,4,3636000,2003,Julio,23
+P-0902,Mochila Laptop Cable Matters V3,Accesorio,1,160000,5,160000,2024,Octubre,21
+P-0903,Cámara Web Razer Slim,Periférico,0,362000,10,0,2026,Julio,1
+P-0904,Limpiador Pantalla Orico SE,Accesorio,1,17000,3,17000,2005,Diciembre,20
+P-0905,Proyector LG Ultra,Electrónico,19,3678000,5,69882000,2009,Noviembre,16
+P-0906,Escritorio Gaming FlexiDesk Elite,Mobiliario,1,1658000,15,1658000,2003,Julio,9
+P-0907,Base Laptop Ugreen 4K,Accesorio,70,138000,15,9660000,2018,Mayo,31
+P-0908,Firewall Bosch SE,Seguridad,9,5444000,4,48996000,2000,Febrero,21
+P-0909,Regulador Voltaje Eaton Lite,Energía,27,373000,8,10071000,2009,Julio,26
+P-0910,Servidor Rack 1U Samsung Lite,Electrónico,19,14341000,5,272479000,2018,Enero,25
+P-0911,Papel Fotográfico A4 Ugreen Mini,Accesorio,1,34000,4,34000,2021,Junio,19
+P-0912,Rack 12U Netgear Max,Red,40,1237000,9,49480000,2012,Marzo,19
+P-0913,Funda Tablet Orico Ultra,Accesorio,32,47000,14,1504000,2012,Octubre,8
+P-0914,Regleta Eléctrica Anker HD,Accesorio,36,35000,10,1260000,2022,Agosto,24
+P-0915,Licencia AutoCAD ESET Mini,Software,4,2800000,5,11200000,2006,Diciembre,2
+P-0916,Sensor Movimiento Honeywell Basic,Seguridad,6,152000,3,912000,2002,Junio,19
+P-0917,Rack 12U Ubiquiti Ultra,Red,4,1739000,14,6956000,2018,Febrero,16
+P-0918,Licencia Office 365 Microsoft Elite,Software,0,350000,6,0,2022,Julio,6
+P-0919,Switch 24 puertos Zyxel Ultra,Red,31,2084000,11,64604000,2026,Febrero,17
+P-0920,Monitor Lenovo Pro,Electrónico,1,1695000,2,1695000,2020,Abril,21
+P-0921,Cartucho Epson Canon Elite,Impresión,0,157000,13,0,2007,Julio,24
+P-0922,Proyector Lenovo Pro,Electrónico,3,5843000,5,17529000,2003,Octubre,20
+P-0923,Cámara IP Honeywell Max,Seguridad,34,754000,13,25636000,2022,Julio,25
+P-0924,Proyector Lenovo Pro,Electrónico,48,3983000,14,191184000,2024,Septiembre,27
+P-0925,Access Point Netgear Basic,Red,15,536000,15,8040000,2009,Febrero,13
+P-0926,Mouse HyperX Mini,Periférico,1,242000,9,242000,2021,Julio,5
+P-0927,Lápiz Digitalizador Microsoft V3,Periférico,6,287000,3,1722000,2019,Mayo,27
+P-0928,Access Point Tenda V2,Red,6,599000,7,3594000,2025,Diciembre,22
+P-0929,Tablet MSI SE,Electrónico,15,1050000,6,15750000,2003,Junio,8
+P-0930,Lápiz Digitalizador Trust Slim,Periférico,22,103000,15,2266000,2025,Abril,2
+P-0931,Impresora Inkjet Xerox Mini,Impresión,1,652000,2,652000,2018,Junio,19
+P-0932,Regulador Voltaje APC Mini,Energía,9,209000,2,1881000,2025,Marzo,31
+P-0933,Cable HDMI Vention Elite,Accesorio,0,65000,14,0,2001,Febrero,23
+P-0934,Micrófono USB Microsoft Plus,Periférico,1,531000,11,531000,2011,Septiembre,4
+P-0935,Smartphone Samsung V2,Electrónico,19,1530000,13,29070000,2017,Noviembre,7
+P-0936,Teclado Microsoft Basic,Periférico,32,242000,10,7744000,2013,Febrero,1
+P-0937,DVR 8 Canales Honeywell V3,Seguridad,7,975000,2,6825000,2021,Septiembre,15
+P-0938,Adaptador USB-C HDMI Anker Ultra,Accesorio,9,150000,2,1350000,2011,Septiembre,11
+P-0939,UPS 1200VA Forza SE,Energía,3,1193000,9,3579000,2002,Abril,14
+P-0940,Firewall Bosch Max,Seguridad,3,7799000,9,23397000,2016,Junio,5
+P-0941,Smart TV MSI Elite,Electrónico,23,3040000,6,69920000,2020,Junio,14
+P-0942,Memoria USB Lexar Pro,Almacenamiento,21,106000,10,2226000,2010,Diciembre,23
+P-0943,Licencia AutoCAD Microsoft X,Software,34,2800000,14,95200000,2000,Noviembre,7
+P-0944,Adaptador USB-C HDMI Belkin V2,Accesorio,48,103000,15,4944000,2013,Marzo,14
+P-0945,Hub USB-C Orico HD,Accesorio,14,377000,4,5278000,2026,Abril,17
+P-0946,SSD NVMe SanDisk Plus,Almacenamiento,12,378000,10,4536000,2015,Febrero,25
+P-0947,Sensor Movimiento Dahua Elite,Seguridad,0,93000,5,0,2003,Marzo,20
+P-0948,Lápiz Digitalizador Razer Pro,Periférico,54,236000,12,12744000,2013,Mayo,30
+P-0949,Cable UTP Cat6 Ubiquiti Pro,Red,7,19000,5,133000,2011,Abril,16
+P-0950,Laptop Asus V2,Electrónico,0,3512000,15,0,2020,Marzo,28
+P-0951,DVR 8 Canales Hanwha Pro,Seguridad,36,1319000,10,47484000,2026,Octubre,28
+P-0952,Control de Acceso Bosch HD,Seguridad,48,499000,15,23952000,2014,Marzo,24
+P-0953,Tablet Dell 4K,Electrónico,11,1422000,3,15642000,2022,Noviembre,24
+P-0954,Cámara Web Razer V3,Periférico,22,238000,10,5236000,2004,Febrero,2
+P-0955,Rack 12U D-Link X,Red,36,1016000,10,36576000,2013,Marzo,23
+P-0956,Mochila Laptop Belkin HD,Accesorio,54,303000,12,16362000,2005,Noviembre,5
+P-0957,Router WiFi Cisco Elite,Red,31,364000,10,11284000,2023,Agosto,17
+P-0958,Base Laptop Anker SE,Accesorio,29,208000,9,6032000,2016,Agosto,7
+P-0959,UPS 1200VA Forza 4K,Energía,35,860000,8,30100000,2020,Octubre,18
+P-0960,Control de Acceso Hanwha Max,Seguridad,35,872000,11,30520000,2008,Octubre,11
+P-0961,Limpiador Pantalla Vention Slim,Accesorio,21,28000,7,588000,2019,Agosto,22
+P-0962,NAS Server Samsung V3,Almacenamiento,22,1341000,6,29502000,2025,Noviembre,16
+P-0963,Teclado SteelSeries Pro,Periférico,3,233000,5,699000,2017,Octubre,17
+P-0964,Monitor Acer Slim,Electrónico,46,1733000,10,79718000,2024,Noviembre,13
+P-0965,Auriculares Dell Pro,Electrónico,3,1092000,7,3276000,2015,Noviembre,11
+P-0966,Memoria USB Transcend Basic,Almacenamiento,8,54000,6,432000,2014,Octubre,31
+P-0967,UPS 2000VA Tripp-Lite X,Energía,0,1225000,13,0,2013,Junio,6
+P-0968,Disco SSD Lexar Elite,Almacenamiento,59,699000,15,41241000,2026,Noviembre,15
+P-0969,UPS 2000VA APC X,Energía,0,2095000,6,0,2023,Junio,30
+P-0970,DVR 8 Canales Axis Mini,Seguridad,0,740000,14,0,2018,Marzo,18
+P-0971,Limpiador Pantalla Ugreen Max,Accesorio,15,39000,8,585000,2008,Agosto,11
+P-0972,Licencia Antivirus Bitdefender Basic,Software,15,454000,15,6810000,2010,Febrero,18
+P-0973,Escritorio Gaming DeskMate Mini,Mobiliario,16,690000,6,11040000,2007,Agosto,12
+P-0974,Firewall Axis Elite,Seguridad,19,4477000,10,85063000,2026,Agosto,22
+P-0975,Smartphone LG Lite,Electrónico,25,3337000,11,83425000,2002,Noviembre,25
+P-0976,Router WiFi Ubiquiti HD,Red,0,583000,4,0,2008,Mayo,28
+P-0977,Proyector Apple X,Electrónico,15,2203000,10,33045000,2014,Mayo,24
+P-0978,NAS Server PNY Mini,Almacenamiento,0,4369000,13,0,2007,Octubre,22
+P-0979,Teclado Microsoft SE,Periférico,45,181000,9,8145000,2024,Enero,21
+P-0980,Lápiz Digitalizador A4Tech X,Periférico,2,278000,10,556000,2014,Junio,26
+P-0981,Tóner HP Kyocera Mini,Impresión,17,167000,12,2839000,2018,Septiembre,23
+P-0982,Mouse Genius Mini,Periférico,3,138000,7,414000,2019,Febrero,9
+P-0983,Regleta Eléctrica Cable Matters Pro,Accesorio,18,74000,4,1332000,2021,Mayo,20
+P-0984,Silla Ergonómica FlexiDesk Lite,Mobiliario,11,541000,15,5951000,2012,Agosto,16
+P-0985,Memoria USB Seagate HD,Almacenamiento,0,118000,15,0,2010,Agosto,7
+P-0986,Mochila Laptop Belkin Basic,Accesorio,33,195000,15,6435000,2000,Enero,31
+P-0987,Laptop Samsung V3,Electrónico,6,1955000,6,11730000,2015,Enero,8
+P-0988,Disco HDD Kingston V3,Almacenamiento,3,425000,5,1275000,2010,Junio,9
+P-0989,UPS 1200VA Tripp-Lite X,Energía,14,624000,13,8736000,2005,Mayo,18
+P-0990,Tarjeta SD Transcend Slim,Almacenamiento,1,164000,2,164000,2015,Febrero,10
+P-0991,Cartucho Epson Epson HD,Impresión,2,114000,2,228000,2006,Noviembre,8
+P-0992,Smart TV LG V2,Electrónico,54,2311000,12,124794000,2011,Febrero,31
+P-0993,Memoria USB WD Pro,Almacenamiento,39,62000,15,2418000,2025,Octubre,10
+P-0994,Impresora Láser Brother SE,Impresión,26,1107000,7,28782000,2008,Octubre,25
+P-0995,Firewall Hikvision Elite,Seguridad,45,3429000,10,154305000,2010,Septiembre,10
+P-0996,Mini PC HP Pro,Electrónico,8,1356000,10,10848000,2008,Julio,23
+P-0997,NAS Server Seagate Pro,Almacenamiento,52,2620000,12,136240000,2019,Agosto,7
+P-0998,Papel Fotográfico A4 Anker SE,Accesorio,0,35000,14,0,2022,Octubre,23
+P-0999,Impresora 3D Brother Slim,Impresión,24,1741000,10,41784000,2008,Septiembre,23
+P-1000,Auriculares Samsung Slim,Electrónico,0,954000,12,0,2017,Diciembre,16
